@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0004/YP-C/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 究竟淸淨混成非一二乘眾生聞此語者驚忙震懼立身無所是時善音等眾豁然意解悟大乘宗平等無二歸命忘形稽首而去顯功德品第八是時善音童子及諸仙
+  hash: sha256:2cedfb119e63d214b65323184e707f0036bf711d866965676e0c10f2f0b0af67
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0004_YP-C_03diji-01-0049a, image: JY004/03diji-01-0049a.png}
+metadata:
+  title: 無上內祕真藏經
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-28 23:34:06.737154'
+  source:
+    repository: kanripo
+    path: KR5a0004/KR5a0004_006.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:360c532603fd3c0e20c4bcab63a7a8ce00be95ef9826b937bf92eabfc50de4ea

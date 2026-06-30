@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5a0004/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無上內祕真藏經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:34:06.737154'
+  source:
+    repository: kanripo
+    path: KR5a0004/KR5a0004_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:15407a4fe91b643cdaac65c97ef9ebd8aed290da1bf5a8c7892e7e993f2791c1

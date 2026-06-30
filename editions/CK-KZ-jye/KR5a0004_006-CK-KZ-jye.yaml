@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0004/CK-KZ-jye/v1/juan/6
+seq: 6
+front:
+  text: 究竟淸淨混成非一二乘眾生聞此語者驚忙震懼立身無所是時善音等眾豁然意解悟大乘宗平等無二歸命忘形稽首而去
+  hash: sha256:aa01e06376785eef92331e3626e52f2123d7d49241281ba94cd70decbb55bfa6
+body:
+  text: 是時善音童子及諸仙
+  hash: sha256:198a036b78db536e861ece4ef207fa2a2be76c5fd9b2b70ce8a8b76546c91b02
+  markers:
+  - {type: head, offset: 0, content: 顯功德品¶第八, id: KR5a0004_CK-KZ-jye_006-h1, level: 2}
+metadata:
+  title: 無上內祕真藏經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-28 23:34:06.737154'
+  source:
+    repository: kanripo
+    path: KR5a0004/KR5a0004_006.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:430a5ee4e827edf45798434da19c13fcb8220a0c30bab435521546b0adb51a0f

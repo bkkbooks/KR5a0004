@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5a0004/CK-KZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八
+  hash: sha256:2c467d3673926b209f49dc3b46f97a30126a1d3470e5844052fade66fb2ce332
+metadata:
+  title: 無上內祕真藏經
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-28 23:34:06.737154'
+  source:
+    repository: kanripo
+    path: KR5a0004/KR5a0004_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:5e06c0da74130547ffc8563eced46e28850ce8589d9f1df881ce00ac48157c36

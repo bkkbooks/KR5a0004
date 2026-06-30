@@ -1,0 +1,178 @@
+canonical_identifier: bkk:krp/KR5a0004/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0004/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無上內祕真藏經
+  date: '2015-08-28 23:34:06.737154'
+  source:
+    repository: kanripo
+    path: KR5a0004
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0004_000-CK-KZ-jye.yaml, hash: 'sha256:a31003246b95af190470feafb74ea1f7b864b07d40a92b49d9a70f648a346d5e'}
+  - {seq: 1, filename: KR5a0004_001-CK-KZ-jye.yaml, hash: 'sha256:8764cacd622ba4fdc25c17af9ed545915eeb5a0228c3e137789d9124f9ed24df'}
+  - {seq: 2, filename: KR5a0004_002-CK-KZ-jye.yaml, hash: 'sha256:591fa589a5eae4fc964cd564e34606b68f9c95098a65fe91773685600ee9b974'}
+  - {seq: 3, filename: KR5a0004_003-CK-KZ-jye.yaml, hash: 'sha256:f34af456ea202beb9a13d85a15f472a01315c473f07605be56f8ae3fd902a0ea'}
+  - {seq: 4, filename: KR5a0004_004-CK-KZ-jye.yaml, hash: 'sha256:497ace48091e156f804b34788a07e689f4f5bd08f7255dec2ffcb111447e6d72'}
+  - {seq: 5, filename: KR5a0004_005-CK-KZ-jye.yaml, hash: 'sha256:3510b2e90640ec71abc27281a4eecd8ba84babf0fe136defd67b0a45be280990'}
+  - {seq: 6, filename: KR5a0004_006-CK-KZ-jye.yaml, hash: 'sha256:430a5ee4e827edf45798434da19c13fcb8220a0c30bab435521546b0adb51a0f'}
+  - {seq: 7, filename: KR5a0004_007-CK-KZ-jye.yaml, hash: 'sha256:821405672eeaba3fcc96aebd3646f32451088d5ba240c69d860e52ec769d5b1e'}
+  - {seq: 8, filename: KR5a0004_008-CK-KZ-jye.yaml, hash: 'sha256:d39f92424482d8be2b2feca42642c11760818a190097a61c559ba31e452788de'}
+  - {seq: 9, filename: KR5a0004_009-CK-KZ-jye.yaml, hash: 'sha256:913c2af0267ef3fb3c71874cb5f79f4f9f6ad9827af09f890f28d04315702038'}
+  - {seq: 10, filename: KR5a0004_010-CK-KZ-jye.yaml, hash: 'sha256:88acb7d3e2631e0c8b2c34fac3be951b21af5c763bab047e2a30a7d1d266bd7b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0004_000-CK-KZ-jye.markers.yaml, hash: 'sha256:c2d42e3e1af56a5950b9258c0f5b453d6d68da6ac7367dbc21fd93a2772fc9e9'}
+  - {seq: 1, role: markers, filename: assets/KR5a0004_001-CK-KZ-jye.markers.yaml, hash: 'sha256:5f5049267033e6039ba1bcfe7bf4bc1cca860ea6f2a5e6d2e1b0f177f8081034'}
+  - {seq: 2, role: markers, filename: assets/KR5a0004_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3d40e67cf1dbd7809749023588d6bcb8a2862822a5d3cd509c95c90f497dbb0f'}
+  - {seq: 3, role: markers, filename: assets/KR5a0004_003-CK-KZ-jye.markers.yaml, hash: 'sha256:361cadc62ac4f5f57bd6ced107d3da40f1c177c394280a40a6830d7e1525d681'}
+  - {seq: 4, role: markers, filename: assets/KR5a0004_004-CK-KZ-jye.markers.yaml, hash: 'sha256:caab5f3237e18b67d196f9eff8e70ad46a0939f2ed1bf57a29873bfb9edc5707'}
+  - {seq: 5, role: markers, filename: assets/KR5a0004_005-CK-KZ-jye.markers.yaml, hash: 'sha256:10414cb06d4a3d8be605c7afcfdb36242bd213e00694c3dc663004bdd420701e'}
+  - {seq: 6, role: markers, filename: assets/KR5a0004_006-CK-KZ-jye.markers.yaml, hash: 'sha256:5287053f9892f4ecd3dd091ab3f40f966b5b724d630e35ade95412f3ce628043'}
+  - {seq: 7, role: markers, filename: assets/KR5a0004_007-CK-KZ-jye.markers.yaml, hash: 'sha256:433de75d1433429c072f1ff7cc9b15d0794a7b8d44a485e2ad61334d176007a7'}
+  - {seq: 8, role: markers, filename: assets/KR5a0004_008-CK-KZ-jye.markers.yaml, hash: 'sha256:35c3c855303697a985ad7836f8cc67e8bdb6b849a4622f1bb66965a0ff76d93d'}
+  - {seq: 9, role: markers, filename: assets/KR5a0004_009-CK-KZ-jye.markers.yaml, hash: 'sha256:6c53606046e78836786fd60ddd2778e4c42fd373cece63386ef01ec462f3293d'}
+  - {seq: 10, role: markers, filename: assets/KR5a0004_010-CK-KZ-jye.markers.yaml, hash: 'sha256:56ace9d3cddf486a76038b94920ea7e6a0d29c932127dd5de381c9a1a5786891'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0004_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 1651
+  label: 顯道品¶第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0004_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 1651
+    - 2649
+  label: 辨三寶品¶第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0004_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 2649
+    - 3968
+  label: 辨四眞品¶第三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0004_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 4089
+  label: 惠澤品¶第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5a0004_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 3590
+  label: 解脫品¶第五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5a0004_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 3658
+  label: 辨¶¶¶¶¶¶¶¶¶¶<md:KR5a0004_HFL_003-013b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5a0004_HFL_004-001a>¶¶相明部袠品¶第六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5a0004_CK-KZ-jye_005-h1
+    span:
+    - body
+    - 0
+    - 3601
+  label: 普明品¶第七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5a0004_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 9
+  label: 顯功德品¶第八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 007
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 008
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 009
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5a0004_CK-KZ-jye_010-h1
+    span:
+    - body
+    - 0
+    - 2381
+  label: 顯誡行品¶第九
+  type: section
+  level: 2
+hash: sha256:3c0aa0f936f577b27985788814ea592313b0c30e854a82f182f20fceea5d7501

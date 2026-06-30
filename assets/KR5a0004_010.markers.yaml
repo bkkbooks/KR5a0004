@@ -1,0 +1,1601 @@
+canonical_identifier: bkk:krp/KR5a0004/bkk/v1/markers/10
+seq: 10
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5a0004_HFL_010-001a01}
+  - {type: variant, offset: 0, length: 2, content: 无上, CK-KZ: 及諸仙眾在香林園詣天尊所聽習大乘遂生迷惑敢問一切眾生普受光者云何利益不同受生各異若俱受者根機應等不應有難悟易悟若不等者慧光不周天尊曰善哉善哉如汝問者以空問空空無所問我所答者以空答空空無所答一切眾生異類差殊諸根不等不等故空空無所等無所等故是名解脫眾生迷惑而不知覺悉有慧光眼瞳不曉本性淸淨心識昏迷要須此經開抉耳目耳目明淨照諸法本無差無别當知一切眾生同禀道源悟解先後譬如元珠遺在赤水種種推求而不能得當知眾生本性空寂非空非有非}
+  - {type: page-break, offset: 0, content: '', id: KR5a0004_CK-KZ_02p048b, image: JY004/CK-KZ_JY004_02p048b.png}
+  - {type: variant, offset: 0, length: 2, content: 无上, CK-KZ-jye: 及諸仙眾在香林園詣天尊所聽習大乘遂生迷惑敢問一切眾生普受光者云何利益不同受生各異若俱受者根機應等不應有難悟易悟若不等者慧光不周天尊曰善哉善哉如汝問者以空問空空無所問我所答者以空答空空無所答一切眾生異類差殊諸根不等不等故空空無所等無所等故是名解脫眾生迷惑而不知覺悉有慧光眼瞳不曉本性淸淨心識昏迷要須此經開抉耳目耳目明淨照諸法本無差無别當知一切眾生同禀道源悟解先後譬如元珠遺在赤水種種推求而不能得當知眾生本性空寂非空非有非}
+  - {type: variant, offset: 0, length: 2, content: 无上, YP-C: 及諸仙眾在香林園詣天尊所聽習大乘遂生迷惑敢問一切眾生普受光者云何利益不同受生各異若俱受者根機應等不應有難悟易悟若不等者慧光不周天尊曰善哉善哉如汝問者以空問空空無所問我所答者以空答空空無所答一切眾生異類差殊諸根不等不等故空空無所等無所等故是名解脫眾生迷惑而不知覺悉有慧光眼瞳不曉本性淸淨心識昏迷要須此經開抉耳目耳目明淨照諸法本無差無别當知一切眾生同禀道源悟解先後譬如元珠遺在赤水種種推求而不能得當知眾生本性空寂非空非有非}
+  - {type: page-break, offset: 0, content: '', id: KR5a0004_YP-C_03diji-01-0049b, image: JY004/03diji-01-0049b.png}
+  - {type: page-break, offset: 0, content: '', id: KR5a0004_SJB_010-010492b, image: sjb/01/010492b.png}
+  - {type: substitution, offset: 0, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 2, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: variant, offset: 3, length: 1, content: 祕, CK-KZ: 非外有心求者終不能得無心不求亦不能得要須方便巧積慧源自然得果若言我說法者則謗正法毀壞善根當知所說非說非說非非說平等一相一無所相善男子汝等内行靜照冀著空有天地成形道德成經智者悟之仁者行之見其所不見不見其所見知其所不知不知其所知反人常見反人常聞一切有爲無爲悉皆而反如是行者體入大乘證成功德善音童子及諸大眾聞如是說心地驚疑迷懼失所敢問諸法究竟非空非有云何有法而反得入大乘旣無法者云何證成功德天尊曰我說一字反覆無端眾生虛妄妄有妄無執妄生迷妄成倒惑我說反者達妄無妄妄有非有妄無非無如是觀者是名反本得入大乘證成功德又問眾生虛妄虛妄卽是無法無法云何可反若無法反云何有大乘可入云何有功德可證天尊曰如是如是諸法解脫得解脫理名入大乘證成功德又問諸法解脫名入大乘證成功德一切眾生不修不學名爲大乘證成功德如是一切諸法名爲大乘證成功德云何有眾生虛妄云何有眾生顛倒云何有眾生取捨云何有眾生去來云何有眾生差别云何有仙聖化度天尊曰如是如是如我所說諸法俱滿一字若有一法不具大惠功德者則謗諸法毀滅大乘何以故一切眾生行住坐臥悉入大乘證成功德五陰六情悉入大乘證成功德貪癡取捨悉入大乘證成功德一切有爲無爲悉入大乘證成功德所說大乘非大乘是名大乘所說功德非功德是名功德諸法微妙自在無爲所有言說皆是名字非眞實道悟斯理者得無畏力心合天德心合地德心合聖德心合日月之德心合星宿之德心合萬類之德一切諸法悉皆合德無傷物性是名究竟大乘功德眾生虛妄妄受諸有失功德力譬如畫師畫形而非眞形又如聲響響非眞聲當知一切諸法如幻如化非空非有眾生顛倒妄受煩惱煩惱妄生妄成受苦恩愛别離苦無極已倐忽之間索然都盡魂識飄揚轉增苦惱善男子勿生不信失慈愛力吾爲汝說大人能受天下之辱大德能受天下之惡何以故大德無妄故能受辱故能受惡所能受者皆是功德大慧福德莊嚴具足成就復次無爲故能生能長虛無故能體能行澹泊故能受能張寂默故能聲能藏恬淡故能聚能散淸淨故能神能光精誠故能得能從中和故能化能同當知秘密}
+  - {type: page-break, offset: 3, content: '', id: KR5a0004_CK-KZ_02p049a, image: JY004/CK-KZ_JY004_02p049a.png}
+  - {type: page-break, offset: 3, content: '', id: KR5a0004_CK-KZ_02p049b, image: JY004/CK-KZ_JY004_02p049b.png}
+  - {type: page-break, offset: 3, content: '', id: KR5a0004_CK-KZ_02p050a, image: JY004/CK-KZ_JY004_02p050a.png}
+  - {type: variant, offset: 3, length: 1, content: 祕, CK-KZ-jye: 非外有心求者終不能得無心不求亦不能得要須方便巧積慧源自然得果若言我說法者則謗正法毀壞善根當知所說非說非說非非說平等一相一無所相善男子汝等内行靜照冀著空有天地成形道德成經智者悟之仁者行之見其所不見不見其所見知其所不知不知其所知反人常見反人常聞一切有爲無爲悉皆而反如是行者體入大乘證成功德善音童子及諸大眾聞如是說心地驚疑迷懼失所敢問諸法究竟非空非有云何有法而反得入大乘旣無法者云何證成功德天尊曰我說一字反覆無端眾生虛妄妄有妄無執妄生迷妄成倒惑我說反者達妄無妄妄有非有妄無非無如是觀者是名反本得入大乘證成功德又問眾生虛妄虛妄卽是無法無法云何可反若無法反云何有大乘可入云何有功德可證天尊曰如是如是諸法解脫得解脫理名入大乘證成功德又問諸法解脫名入大乘證成功德一切眾生不修不學名爲大乘證成功德如是一切諸法名爲大乘證成功德云何有眾生虛妄云何有眾生顛倒云何有眾生取捨云何有眾生去來云何有眾生差别云何有仙聖化度天尊曰如是如是如我所說諸法俱滿一字若有一法不具大惠功德者則謗諸法毀滅大乘何以故一切眾生行住坐臥悉入大乘證成功德五陰六情悉入大乘證成功德貪癡取捨悉入大乘證成功德一切有爲無爲悉入大乘證成功德所說大乘非大乘是名大乘所說功德非功德是名功德諸法微妙自在無爲所有言說皆是名字非眞實道悟斯理者得無畏力心合天德心合地德心合聖德心合日月之德心合星宿之德心合萬類之德一切諸法悉皆合德無傷物性是名究竟大乘功德眾生虛妄妄受諸有失功德力譬如畫師畫形而非眞形又如聲響響非眞聲當知一切諸法如幻如化非空非有眾生顛倒妄受煩惱煩惱妄生妄成受苦恩愛别離苦無極已倐忽之間索然都盡魂識飄揚轉增苦惱善男子勿生不信失慈愛力吾爲汝說大人能受天下之辱大德能受天下之惡何以故大德無妄故能受辱故能受惡所能受者皆是功德大慧福德莊嚴具足成就復次無爲故能生能長虛無故能體能行澹泊故能受能張寂默故能聲能藏恬淡故能聚能散淸淨故能神能光精誠故能得能從中和故能化能同當知秘密}
+  - {type: variant, offset: 3, length: 1, content: 祕, YP-C: 非外有心求者終不能得無心不求亦不能得要須方便巧積慧源自然得果若言我說法者則謗正法毀壞善根當知所說非說非說非非說平等一相一無所相善男子汝等内行靜照冀著空有天地成形道德成經智者悟之仁者行之見其所不見不見其所見知其所不知不知其所知反人常見反人常聞一切有爲無爲悉皆而反如是行者體入大乘證成功德善音童子及諸大眾聞如是說心地驚疑迷懼失所敢問諸法究竟非空非有云何有法而反得入大乘旣無法者云何證成功德天尊曰我說一字反覆無端眾生虛妄妄有妄無執妄生迷妄成倒惑我說反者達妄無妄妄有非有妄無非無如是觀者是名反本得入大乘證成功德又問眾生虛妄虛妄卽是無法無法云何可反若無法反云何有大乘可入云何有功德可證天尊曰如是如是諸法解脫得解脫理名入大乘證成功德又問諸法解脫名入大乘證成功德一切眾生不修不學名爲大乘證成功德如是一切諸法名爲大乘證成功德云何有眾生虛妄云何有眾生顛倒云何有眾生取捨云何有眾生去來云何有眾生差别云何有仙聖化度天尊曰如是如是如我所說諸法俱滿一字若有一法不具大惠功德者則謗諸法毀滅大乘何以故一切眾生行住坐臥悉入大乘證成功德五陰六情悉入大乘證成功德貪癡取捨悉入大乘證成功德一切有爲無爲悉入大乘證成功德所說大乘非大乘是名大乘所說功德非功德是名功德諸法微妙自在無爲所有言說皆是名字非眞實道悟斯理者得無畏力心合天德心合地德心合聖德心合日月之德心合星宿之德心合萬類之德一切諸法悉皆合德無傷物性是名究竟大乘功德眾生虛妄妄受諸有失功德力譬如畫師畫形而非眞形又如聲響響非眞聲當知一切諸法如幻如化非空非有眾生顛倒妄受煩惱煩惱妄生妄成受苦恩愛别離苦無極已倐忽之間索然都盡魂識飄揚轉增苦惱善男子勿生不信失慈愛力吾爲汝說大人能受天下之辱大德能受天下之惡何以故大德無妄故能受辱故能受惡所能受者皆是功德大慧福德莊嚴具足成就復次無爲故能生能長虛無故能體能行澹泊故能受能張寂默故能聲能藏恬淡故能聚能散淸淨故能神能光精誠故能得能從中和故能化能同當知秘密}
+  - {type: page-break, offset: 3, content: '', id: KR5a0004_YP-C_03diji-01-0050a, image: JY004/03diji-01-0050a.png}
+  - {type: page-break, offset: 3, content: '', id: KR5a0004_YP-C_03diji-01-0050b, image: JY004/03diji-01-0050b.png}
+  - {type: page-break, offset: 3, content: '', id: KR5a0004_YP-C_03diji-01-0051a, image: JY004/03diji-01-0051a.png}
+  - {type: substitution, offset: 4, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 6, length: 0, content: '', CK-KZ: 眾}
+  - {type: variant, offset: 6, length: 0, content: '', CK-KZ-jye: 眾}
+  - {type: variant, offset: 6, length: 0, content: '', YP-C: 眾}
+  - {type: variant, offset: 7, length: 9, content: 卷之十洪十七䆒竟品, CK-KZ: 第一無爲養性虛無存生澹泊安身寂默養營恬淡樂志淸淨平心精誠守節中和存神草本地生去地而死魚鼈水生離水而死人以氣生去氣而死聖人愛氣守精以爲身寶上無所指下無所揆心無想念意如流水善男子當知一切諸法本性恬淡悉入大乘眾生迷惑不達生靈失大乘道彌年積劫輪轉不悟汝等徒眾各開緣化功德甚重不可格量}
+  - {type: page-break, offset: 7, content: '', id: KR5a0004_CK-KZ_02p050b, image: JY004/CK-KZ_JY004_02p050b.png}
+  - {type: variant, offset: 7, length: 9, content: 卷之十洪十七䆒竟品, CK-KZ-jye: 第一無爲養性虛無存生澹泊安身寂默養營恬淡樂志淸淨平心精誠守節中和存神草本地生去地而死魚鼈水生離水而死人以氣生去氣而死聖人愛氣守精以爲身寶上無所指下無所揆心無想念意如流水善男子當知一切諸法本性恬淡悉入大乘眾生迷惑不達生靈失大乘道彌年積劫輪轉不悟汝等徒眾各開緣化功德甚重不可格量}
+  - {type: variant, offset: 7, length: 9, content: 卷之十洪十七䆒竟品, YP-C: 第一無爲養性虛無存生澹泊安身寂默養營恬淡樂志淸淨平心精誠守節中和存神草本地生去地而死魚鼈水生離水而死人以氣生去氣而死聖人愛氣守精以爲身寶上無所指下無所揆心無想念意如流水善男子當知一切諸法本性恬淡悉入大乘眾生迷惑不達生靈失大乘道彌年積劫輪轉不悟汝等徒眾各開緣化功德甚重不可格量}
+  - {type: page-break, offset: 7, content: '', id: KR5a0004_YP-C_03diji-01-0051b, image: JY004/03diji-01-0051b.png}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5a0004_HFL_010-001a02}
+  - {type: indent, offset: 0, content: 　　　, id: KR5a0004_krp_010-bkkind1}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl2}
+  - {type: line-break, offset: 3, content: '', id: KR5a0004_HFL_010-001a03}
+  - {type: variant, offset: 5, length: 0, content: '', CK-KZ: 善音童子及諸大眾歡喜無量俱發善心而說偈曰}
+  - {type: variant, offset: 5, length: 0, content: '', CK-KZ-jye: 善音童子及諸大眾歡喜無量俱發善心而說偈曰}
+  - {type: variant, offset: 5, length: 0, content: '', YP-C: 善音童子及諸大眾歡喜無量俱發善心而說偈曰}
+  - {type: variant, offset: 7, length: 1, content: 領, CK-KZ: 顯功德微妙莫能尋施張遍法界鬱鬱香園林智者巧能入方便種善因愚夫迷日久自與失爲鄰我等生信行共習大乘津法王王自在解脫脫相親大乘平等道濟度於天人㝠心自然合方寸隨日新爾時善音童子及}
+  - {type: page-break, offset: 7, content: '', id: KR5a0004_CK-KZ_02p051a, image: JY004/CK-KZ_JY004_02p051a.png}
+  - {type: variant, offset: 7, length: 1, content: 領, CK-KZ-jye: 顯功德微妙莫能尋施張遍法界鬱鬱香園林智者巧能入方便種善因愚夫迷日久自與失爲鄰我等生信行共習大乘津法王王自在解脫脫相親大乘平等道濟度於天人㝠心自然合方寸隨日新爾時善音童子及}
+  - {type: variant, offset: 7, length: 1, content: 領, YP-C: 顯功德微妙莫能尋施張遍法界鬱鬱香園林智者巧能入方便種善因愚夫迷日久自與失爲鄰我等生信行共習大乘津法王王自在解脫脫相親大乘平等道濟度於天人㝠心自然合方寸隨日新爾時善音童子及}
+  - {type: page-break, offset: 7, content: '', id: KR5a0004_YP-C_03diji-01-0052a, image: JY004/03diji-01-0052a.png}
+  - {type: variant, offset: 9, length: 6, content: 徒衆在靈解山, CK-KZ: 四眾說此偈頌讚仰天尊}
+  - {type: variant, offset: 9, length: 6, content: 徒衆在靈解山, CK-KZ-jye: 四眾說此偈頌讚仰天尊}
+  - {type: variant, offset: 9, length: 6, content: 徒衆在靈解山, YP-C: 四眾說此偈頌讚仰天尊}
+  - {type: variant, offset: 19, length: 2, content: 无量, CK-KZ: 濟度眾生所說功德非功德是名功德各各自悟見一赤珠非内非外懸在空中光明映徹照耀諸}
+  - {type: variant, offset: 19, length: 2, content: 无量, CK-KZ-jye: 濟度眾生所說功德非功德是名功德各各自悟見一赤珠非内非外懸在空中光明映徹照耀諸}
+  - {type: variant, offset: 19, length: 2, content: 无量, YP-C: 濟度眾生所說功德非功德是名功德各各自悟見一赤珠非内非外懸在空中光明映徹照耀諸}
+  - {type: substitution, offset: 19, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 20, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl3}
+  - {type: line-break, offset: 20, content: '', id: KR5a0004_HFL_010-001a04}
+  - {type: variant, offset: 22, length: 1, content: 土, CK-KZ: 無大無小}
+  - {type: variant, offset: 22, length: 1, content: 土, CK-KZ-jye: 無大無小}
+  - {type: variant, offset: 22, length: 1, content: 土, YP-C: 無大無小}
+  - {type: variant, offset: 24, length: 6, content: 受慧潤无量衆, CK-KZ: 同一類俱入珠中不}
+  - {type: variant, offset: 24, length: 6, content: 受慧潤无量衆, CK-KZ-jye: 同一類俱入珠中不}
+  - {type: variant, offset: 24, length: 6, content: 受慧潤无量衆, YP-C: 同一類俱入珠中不}
+  - {type: substitution, offset: 27, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: variant, offset: 31, length: 1, content: 悉, CK-KZ: 不滅須臾之間忽然不見四眾茫然莫知所在各各自視復無所}
+  - {type: variant, offset: 31, length: 1, content: 悉, CK-KZ-jye: 不滅須臾之間忽然不見四眾茫然莫知所在各各自視復無所}
+  - {type: variant, offset: 31, length: 1, content: 悉, YP-C: 不滅須臾之間忽然不見四眾茫然莫知所在各各自視復無所}
+  - {type: variant, offset: 33, length: 1, content: 度, CK-KZ: 荏}
+  - {type: variant, offset: 33, length: 1, content: 度, CK-KZ-jye: 荏}
+  - {type: variant, offset: 33, length: 1, content: 度, YP-C: 荏}
+  - {type: variant, offset: 34, length: 1, content: 脫, CK-KZ: 苒}
+  - {type: variant, offset: 34, length: 1, content: 脫, CK-KZ-jye: 苒}
+  - {type: variant, offset: 34, length: 1, content: 脫, YP-C: 苒}
+  - {type: variant, offset: 35, length: 1, content: 无, CK-KZ: 之}
+  - {type: variant, offset: 35, length: 1, content: 无, CK-KZ-jye: 之}
+  - {type: variant, offset: 35, length: 1, content: 无, YP-C: 之}
+  - {type: substitution, offset: 35, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: variant, offset: 36, length: 1, content: 量, CK-KZ: 間}
+  - {type: variant, offset: 36, length: 1, content: 量, CK-KZ-jye: 間}
+  - {type: variant, offset: 36, length: 1, content: 量, YP-C: 間}
+  - {type: 'kr:newline', offset: 37, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl4}
+  - {type: line-break, offset: 37, content: '', id: KR5a0004_HFL_010-001a05}
+  - {type: variant, offset: 39, length: 3, content: 並悉聞, CK-KZ: 宛然在寶珠中四眾視之復無所得非空非有非長非短非妙非粗非廣非狹離一切相一切相離所說法界非法界而爲法界卽是寶珠所說寶珠非寶珠而爲寶珠卽是法界當}
+  - {type: variant, offset: 39, length: 3, content: 並悉聞, CK-KZ-jye: 宛然在寶珠中四眾視之復無所得非空非有非長非短非妙非粗非廣非狹離一切相一切相離所說法界非法界而爲法界卽是寶珠所說寶珠非寶珠而爲寶珠卽是法界當}
+  - {type: variant, offset: 39, length: 3, content: 並悉聞, YP-C: 宛然在寶珠中四眾視之復無所得非空非有非長非短非妙非粗非廣非狹離一切相一切相離所說法界非法界而爲法界卽是寶珠所說寶珠非寶珠而爲寶珠卽是法界當}
+  - {type: variant, offset: 43, length: 14, content: 无量小乗皆得悟解无量眞仙能顯, CK-KZ: 寶珠不離法界亦不在内亦不在外非内非外非非内非非外言語道斷絶諸漏行如是}
+  - {type: page-break, offset: 43, content: '', id: KR5a0004_CK-KZ_02p051b, image: JY004/CK-KZ_JY004_02p051b.png}
+  - {type: variant, offset: 43, length: 14, content: 无量小乗皆得悟解无量眞仙能顯, CK-KZ-jye: 寶珠不離法界亦不在内亦不在外非内非外非非内非非外言語道斷絶諸漏行如是}
+  - {type: variant, offset: 43, length: 14, content: 无量小乗皆得悟解无量眞仙能顯, YP-C: 寶珠不離法界亦不在内亦不在外非内非外非非内非非外言語道斷絶諸漏行如是}
+  - {type: page-break, offset: 43, content: '', id: KR5a0004_YP-C_03diji-01-0052b, image: JY004/03diji-01-0052b.png}
+  - {type: substitution, offset: 43, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 46, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: substitution, offset: 51, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 53, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 54, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl5}
+  - {type: line-break, offset: 54, content: '', id: KR5a0004_HFL_010-001a06}
+  - {type: variant, offset: 59, length: 13, content: 无量眷屬能受持經无量童子能, CK-KZ: 微妙深遠不可稱}
+  - {type: variant, offset: 59, length: 13, content: 无量眷屬能受持經无量童子能, CK-KZ-jye: 微妙深遠不可稱}
+  - {type: variant, offset: 59, length: 13, content: 无量眷屬能受持經无量童子能, YP-C: 微妙深遠不可稱}
+  - {type: substitution, offset: 59, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 67, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 71, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl6}
+  - {type: line-break, offset: 71, content: '', id: KR5a0004_HFL_010-001a07}
+  - {type: variant, offset: 73, length: 15, content: 眞藏无量上士能體大乘无量中士能, CK-KZ: 顯誡}
+  - {type: variant, offset: 73, length: 43, content: 眞藏无量上士能體大乘无量中士能行供養无量下士能生信心无量師子衞護法城无量金剛斷邪魔惑爾, CK-KZ-jye: 是}
+  - {type: variant, offset: 73, length: 15, content: 眞藏无量上士能體大乘无量中士能, YP-C: 顯誡}
+  - {type: substitution, offset: 73, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: substitution, offset: 75, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 83, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 88, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl7}
+  - {type: line-break, offset: 88, content: '', id: KR5a0004_HFL_010-001a08}
+  - {type: variant, offset: 89, length: 27, content: 供養无量下士能生信心无量師子衞護法城无量金剛斷邪魔惑爾, CK-KZ: 品第九是}
+  - {type: variant, offset: 89, length: 27, content: 供養无量下士能生信心无量師子衞護法城无量金剛斷邪魔惑爾, YP-C: 品第九是}
+  - {type: substitution, offset: 91, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 99, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 103, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: 'kr:newline', offset: 105, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl8}
+  - {type: line-break, offset: 105, content: '', id: KR5a0004_HFL_010-001a09}
+  - {type: substitution, offset: 107, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: variant, offset: 117, length: 337, content: 天尊放慧光明遍照東方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法歸依无上師又照南方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法歸依无上師又照西方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法皈依无上師又照北方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法皈依无上師又照上方无量諸天各隨形類而得受潤見此神變尋光而來不動分度而覩天尊稽首无上尊稽首无上法皈依无上師又照下方无極世界各隨形類而得受潤見此神孌尋光而來不動本所而覩天尊稽首无上尊稽首无上法皈依无上師又照地獄幽徒楚痛各隨業報而得解脫見此神變尋光而出不動其所而覩天尊稽首无上尊稽首无上法皈依无上師爾時, CK-KZ: 元始}
+  - {type: variant, offset: 117, length: 337, content: 天尊放慧光明遍照東方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法歸依无上師又照南方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法歸依无上師又照西方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法皈依无上師又照北方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法皈依无上師又照上方无量諸天各隨形類而得受潤見此神變尋光而來不動分度而覩天尊稽首无上尊稽首无上法皈依无上師又照下方无極世界各隨形類而得受潤見此神孌尋光而來不動本所而覩天尊稽首无上尊稽首无上法皈依无上師又照地獄幽徒楚痛各隨業報而得解脫見此神變尋光而出不動其所而覩天尊稽首无上尊稽首无上法皈依无上師爾時, CK-KZ-jye: 元始}
+  - {type: variant, offset: 117, length: 337, content: 天尊放慧光明遍照東方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法歸依无上師又照南方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法歸依无上師又照西方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法皈依无上師又照北方无量國土各隨形類而得受潤見此神變尋光而來不動本國而覩天尊稽首无上尊稽首无上法皈依无上師又照上方无量諸天各隨形類而得受潤見此神變尋光而來不動分度而覩天尊稽首无上尊稽首无上法皈依无上師又照下方无極世界各隨形類而得受潤見此神孌尋光而來不動本所而覩天尊稽首无上尊稽首无上法皈依无上師又照地獄幽徒楚痛各隨業報而得解脫見此神變尋光而出不動其所而覩天尊稽首无上尊稽首无上法皈依无上師爾時, YP-C: 元始}
+  - {type: 'kr:newline', offset: 122, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl9}
+  - {type: line-break, offset: 122, content: '', id: KR5a0004_HFL_010-001a10}
+  - {type: substitution, offset: 127, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 139, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl10}
+  - {type: page-break, offset: 139, content: '', id: KR5a0004_HFL_010-001b, image: hfl/0015/0015-163.png}
+  - {type: 'kr:newline', offset: 139, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl11}
+  - {type: line-break, offset: 139, content: '', id: KR5a0004_HFL_010-001b01}
+  - {type: 'kr:newline', offset: 156, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl12}
+  - {type: line-break, offset: 156, content: '', id: KR5a0004_HFL_010-001b02}
+  - {type: substitution, offset: 157, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 162, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 167, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 173, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl13}
+  - {type: line-break, offset: 173, content: '', id: KR5a0004_HFL_010-001b03}
+  - {type: substitution, offset: 174, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 190, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl14}
+  - {type: line-break, offset: 190, content: '', id: KR5a0004_HFL_010-001b04}
+  - {type: substitution, offset: 204, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 207, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl15}
+  - {type: line-break, offset: 207, content: '', id: KR5a0004_HFL_010-001b05}
+  - {type: substitution, offset: 209, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 214, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 221, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 224, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl16}
+  - {type: line-break, offset: 224, content: '', id: KR5a0004_HFL_010-001b06}
+  - {type: 'kr:newline', offset: 241, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl17}
+  - {type: line-break, offset: 241, content: '', id: KR5a0004_HFL_010-001b07}
+  - {type: substitution, offset: 251, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 256, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 258, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl18}
+  - {type: line-break, offset: 258, content: '', id: KR5a0004_HFL_010-001b08}
+  - {type: substitution, offset: 261, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 268, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 275, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl19}
+  - {type: line-break, offset: 275, content: '', id: KR5a0004_HFL_010-001b09}
+  - {type: 'kr:newline', offset: 292, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl20}
+  - {type: line-break, offset: 292, content: '', id: KR5a0004_HFL_010-001b10}
+  - {type: substitution, offset: 298, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 303, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 308, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 309, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl21}
+  - {type: page-break, offset: 309, content: '', id: KR5a0004_HFL_010-002a, image: hfl/0015/0015-164.png}
+  - {type: 'kr:newline', offset: 309, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl22}
+  - {type: line-break, offset: 309, content: '', id: KR5a0004_HFL_010-002a01}
+  - {type: page-break, offset: 309, content: '', id: KR5a0004_SJB_010-010492c, image: sjb/01/010492c.png}
+  - {type: substitution, offset: 315, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 326, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl23}
+  - {type: line-break, offset: 326, content: '', id: KR5a0004_HFL_010-002a02}
+  - {type: 'kr:newline', offset: 343, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl24}
+  - {type: line-break, offset: 343, content: '', id: KR5a0004_HFL_010-002a03}
+  - {type: substitution, offset: 345, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 350, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 355, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 360, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl25}
+  - {type: line-break, offset: 360, content: '', id: KR5a0004_HFL_010-002a04}
+  - {type: substitution, offset: 362, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 377, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl26}
+  - {type: line-break, offset: 377, content: '', id: KR5a0004_HFL_010-002a05}
+  - {type: substitution, offset: 392, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 394, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl27}
+  - {type: line-break, offset: 394, content: '', id: KR5a0004_HFL_010-002a06}
+  - {type: substitution, offset: 397, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 402, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 411, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl28}
+  - {type: line-break, offset: 411, content: '', id: KR5a0004_HFL_010-002a07}
+  - {type: 'kr:newline', offset: 428, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl29}
+  - {type: line-break, offset: 428, content: '', id: KR5a0004_HFL_010-002a08}
+  - {type: substitution, offset: 439, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 444, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 445, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl30}
+  - {type: line-break, offset: 445, content: '', id: KR5a0004_HFL_010-002a09}
+  - {type: substitution, offset: 449, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 452, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl31}
+  - {type: line-break, offset: 452, content: '', id: KR5a0004_HFL_010-002a10}
+  - {type: variant, offset: 458, length: 3, content: 來者吾, CK-KZ: 四眾一切眾生貪著有}
+  - {type: variant, offset: 458, length: 3, content: 來者吾, CK-KZ-jye: 四眾一切眾生貪著有}
+  - {type: variant, offset: 458, length: 3, content: 來者吾, YP-C: 四眾一切眾生貪著有}
+  - {type: substitution, offset: 461, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 462, length: 0, content: '', CK-KZ: 欣生惡死意雖求生由造死業不持戒行假使長夀猶如老樹有何殊别若持戒行死補天官昇仙自在人雖有王公之位苟不持戒死皆重罪無益魂神魂神受苦不可堪忍善男子}
+  - {type: variant, offset: 462, length: 0, content: '', CK-KZ-jye: 欣生惡死意雖求生由造死業不持戒行假使長夀猶如老樹有何殊别若持戒行死補天官昇仙自在人雖有王公之位苟不持戒死皆重罪無益魂神魂神受苦不可堪忍善男子}
+  - {type: variant, offset: 462, length: 0, content: '', YP-C: 欣生惡死意雖求生由造死業不持戒行假使長夀猶如老樹有何殊别若持戒行死補天官昇仙自在人雖有王公之位苟不持戒死皆重罪無益魂神魂神受苦不可堪忍善男子}
+  - {type: variant, offset: 464, length: 20, content: 猶居幻中妄生業縛生死憂惱不能悟解又有諸仙, CK-KZ: 思維明奉戒}
+  - {type: variant, offset: 464, length: 20, content: 猶居幻中妄生業縛生死憂惱不能悟解又有諸仙, CK-KZ-jye: 思維明奉戒}
+  - {type: variant, offset: 464, length: 20, content: 猶居幻中妄生業縛生死憂惱不能悟解又有諸仙, YP-C: 思維明奉戒}
+  - {type: 'kr:newline', offset: 469, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl32}
+  - {type: page-break, offset: 469, content: '', id: KR5a0004_HFL_010-002b, image: hfl/0015/0015-165.png}
+  - {type: 'kr:newline', offset: 469, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl33}
+  - {type: line-break, offset: 469, content: '', id: KR5a0004_HFL_010-002b01}
+  - {type: variant, offset: 485, length: 1, content: 小, CK-KZ: 直}
+  - {type: variant, offset: 485, length: 1, content: 小, CK-KZ-jye: 直}
+  - {type: variant, offset: 485, length: 1, content: 小, YP-C: 直}
+  - {type: 'kr:newline', offset: 486, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl34}
+  - {type: line-break, offset: 486, content: '', id: KR5a0004_HFL_010-002b02}
+  - {type: variant, offset: 486, length: 1, content: 乘, CK-KZ: 心}
+  - {type: variant, offset: 486, length: 1, content: 乘, CK-KZ-jye: 心}
+  - {type: variant, offset: 486, length: 1, content: 乘, YP-C: 心}
+  - {type: variant, offset: 488, length: 27, content: 雖得長年終皈變易何以故業受累故汝今逥向皈命大乗諦聽善思, CK-KZ: 道}
+  - {type: variant, offset: 488, length: 27, content: 雖得長年終皈變易何以故業受累故汝今逥向皈命大乗諦聽善思, CK-KZ-jye: 道}
+  - {type: variant, offset: 488, length: 27, content: 雖得長年終皈變易何以故業受累故汝今逥向皈命大乗諦聽善思, YP-C: 道}
+  - {type: substitution, offset: 501, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: 'kr:newline', offset: 503, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl35}
+  - {type: line-break, offset: 503, content: '', id: KR5a0004_HFL_010-002b03}
+  - {type: substitution, offset: 505, original: 逥, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0181}}
+  - {type: substitution, offset: 510, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: substitution, offset: 516, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 519, length: 21, content: 我發神光遍照十方无量國土汝等各見神光殊妙希, CK-KZ: 天下萬物無}
+  - {type: variant, offset: 519, length: 21, content: 我發神光遍照十方无量國土汝等各見神光殊妙希, CK-KZ-jye: 天下萬物無}
+  - {type: variant, offset: 519, length: 21, content: 我發神光遍照十方无量國土汝等各見神光殊妙希, YP-C: 天下萬物無}
+  - {type: 'kr:newline', offset: 520, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl36}
+  - {type: line-break, offset: 520, content: '', id: KR5a0004_HFL_010-002b04}
+  - {type: substitution, offset: 527, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 537, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl37}
+  - {type: line-break, offset: 537, content: '', id: KR5a0004_HFL_010-002b05}
+  - {type: variant, offset: 541, length: 2, content: 第一, CK-KZ: 長存有生有死有成有敗日出則没月滿則虧從古至今誰能長存惟有道德}
+  - {type: variant, offset: 541, length: 2, content: 第一, CK-KZ-jye: 長存有生有死有成有敗日出則没月滿則虧從古至今誰能長存惟有道德}
+  - {type: variant, offset: 541, length: 2, content: 第一, YP-C: 長存有生有死有成有敗日出則没月滿則虧從古至今誰能長存惟有道德}
+  - {type: variant, offset: 544, length: 18, content: 識所由此光非外非内非青非白非赤非黒脫, CK-KZ: 生不滅修善積善今日亦善今月亦善今時亦善善善積德}
+  - {type: page-break, offset: 544, content: '', id: KR5a0004_CK-KZ_02p052a, image: JY004/CK-KZ_JY004_02p052a.png}
+  - {type: variant, offset: 544, length: 18, content: 識所由此光非外非内非青非白非赤非黒脫, CK-KZ-jye: 生不滅修善積善今日亦善今月亦善今時亦善善善積德}
+  - {type: variant, offset: 544, length: 18, content: 識所由此光非外非内非青非白非赤非黒脫, YP-C: 生不滅修善積善今日亦善今月亦善今時亦善善善積德}
+  - {type: page-break, offset: 544, content: '', id: KR5a0004_YP-C_03diji-01-0053a, image: JY004/03diji-01-0053a.png}
+  - {type: substitution, offset: 552, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 554, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl38}
+  - {type: line-break, offset: 554, content: '', id: KR5a0004_HFL_010-002b06}
+  - {type: substitution, offset: 560, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3297}}
+  - {type: variant, offset: 563, length: 3, content: 色像而, CK-KZ: 行備足善念護持令入法寶誡曰不得盜竊人物不得妄取人財不得妄言綺語不得因恨殺人不得貪嗔癡狠不得慢老欺人不得咒詛毒心不得罵詈高聲不得訾毀謗人不得兩舌奏佞不得持人短長不得好言人惡不得毀善自譽不}
+  - {type: variant, offset: 563, length: 3, content: 色像而, CK-KZ-jye: 行備足善念護持令入法寶誡曰不得盜竊人物不得妄取人財不得妄言綺語不得因恨殺人不得貪嗔癡狠不得慢老欺人不得咒詛毒心不得罵詈高聲不得訾毀謗人不得兩舌奏佞不得持人短長不得好言人惡不得毀善自譽不}
+  - {type: variant, offset: 563, length: 3, content: 色像而, YP-C: 行備足善念護持令入法寶誡曰不得盜竊人物不得妄取人財不得妄言綺語不得因恨殺人不得貪嗔癡狠不得慢老欺人不得咒詛毒心不得罵詈高聲不得訾毀謗人不得兩舌奏佞不得持人短長不得好言人惡不得毀善自譽不}
+  - {type: variant, offset: 568, length: 3, content: 在汝等, CK-KZ: 驕我慢不得畜毒藥人不得投書譖人不得輕慢經教不得謗毀聖文不得恃威凌物不得貪淫好色不得好殺物命不得耽酒迷狂不得殺生淫祀不得燒野山林遊獵不得評論師長不得貪惜財賄不得言人陰事天尊曰略說戒條罪}
+  - {type: page-break, offset: 568, content: '', id: KR5a0004_CK-KZ_02p052b, image: JY004/CK-KZ_JY004_02p052b.png}
+  - {type: variant, offset: 568, length: 3, content: 在汝等, CK-KZ-jye: 驕我慢不得畜毒藥人不得投書譖人不得輕慢經教不得謗毀聖文不得恃威凌物不得貪淫好色不得好殺物命不得耽酒迷狂不得殺生淫祀不得燒野山林遊獵不得評論師長不得貪惜財賄不得言人陰事天尊曰略說戒條罪}
+  - {type: variant, offset: 568, length: 3, content: 在汝等, YP-C: 驕我慢不得畜毒藥人不得投書譖人不得輕慢經教不得謗毀聖文不得恃威凌物不得貪淫好色不得好殺物命不得耽酒迷狂不得殺生淫祀不得燒野山林遊獵不得評論師長不得貪惜財賄不得言人陰事天尊曰略說戒條罪}
+  - {type: page-break, offset: 568, content: '', id: KR5a0004_YP-C_03diji-01-0053b, image: JY004/03diji-01-0053b.png}
+  - {type: 'kr:newline', offset: 571, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl39}
+  - {type: line-break, offset: 571, content: '', id: KR5a0004_HFL_010-002b07}
+  - {type: variant, offset: 573, length: 113, content: 此光非近非逺變見在物能爲五聲非五聲能爲五色非五色能爲五味非五味能爲物像非物像能爲智慧非智慧能爲解脫非解脫能爲微妙非微妙能爲清淨非清淨能爲不動非不動能爲取捨非取捨能爲去來非去來能爲寂滅非寂滅能爲是非非是非略示此光千分萬分未顯其一, CK-KZ: 報}
+  - {type: variant, offset: 573, length: 113, content: 此光非近非逺變見在物能爲五聲非五聲能爲五色非五色能爲五味非五味能爲物像非物像能爲智慧非智慧能爲解脫非解脫能爲微妙非微妙能爲清淨非清淨能爲不動非不動能爲取捨非取捨能爲去來非去來能爲寂滅非寂滅能爲是非非是非略示此光千分萬分未顯其一, CK-KZ-jye: 報}
+  - {type: variant, offset: 573, length: 113, content: 此光非近非逺變見在物能爲五聲非五聲能爲五色非五色能爲五味非五味能爲物像非物像能爲智慧非智慧能爲解脫非解脫能爲微妙非微妙能爲清淨非清淨能爲不動非不動能爲取捨非取捨能爲去來非去來能爲寂滅非寂滅能爲是非非是非略示此光千分萬分未顯其一, YP-C: 報}
+  - {type: substitution, offset: 584, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 588, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl40}
+  - {type: line-break, offset: 588, content: '', id: KR5a0004_HFL_010-002b08}
+  - {type: substitution, offset: 591, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 598, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 605, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl41}
+  - {type: line-break, offset: 605, content: '', id: KR5a0004_HFL_010-002b09}
+  - {type: substitution, offset: 605, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 612, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 619, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 622, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl42}
+  - {type: line-break, offset: 622, content: '', id: KR5a0004_HFL_010-002b10}
+  - {type: substitution, offset: 626, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 633, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 639, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl43}
+  - {type: page-break, offset: 639, content: '', id: KR5a0004_HFL_010-003a, image: hfl/0015/0015-166.png}
+  - {type: 'kr:newline', offset: 639, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl44}
+  - {type: line-break, offset: 639, content: '', id: KR5a0004_HFL_010-003a01}
+  - {type: page-break, offset: 639, content: '', id: KR5a0004_SJB_010-010493a, image: sjb/01/010493a.png}
+  - {type: substitution, offset: 640, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 647, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 654, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 656, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl45}
+  - {type: line-break, offset: 656, content: '', id: KR5a0004_HFL_010-003a02}
+  - {type: substitution, offset: 661, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 668, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 673, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl46}
+  - {type: line-break, offset: 673, content: '', id: KR5a0004_HFL_010-003a03}
+  - {type: variant, offset: 689, length: 0, content: '', CK-KZ: 善聽在心今當爲說盜竊人物者死入金槌獄妄取人一錢以上者死入鑊湯獄妄言綺語者死入拔舌獄因恨殺人者死入五牢大地獄貪嗔癡狠者死入大檻獄慢老欺人者死入酆都獄咒詛毒心者死入八闥獄罵詈高聲者死入泥犁獄訾毀謗人者死入北寒獄兩舌奏佞者死入大山獄持人長短者死入碓磑獄好言人惡者死入黑暗獄毀善自譽者死入大劍獄自驕我慢者死入寒冰獄畜毒藥人者死入灰炭獄投書譖人者死入黃泉大暗獄輕慢經教者死入障明獄謗毀聖文者死入銅火獄恃威凌物者死入炎爐獄貪淫好色者死入溟冷獄好殺物命者死入無間獄耽酒迷狂者死入渴寒獄殺生淫祀者死入沸山獄燒野山林遊獵者死入分形獄評論師長者死入磨山獄貪惜財賄者死入餓鬼獄言人陰事者死入黑水獄如是戒行不得輕犯輕犯之者隨犯輕重如影隨形如響應聲聲大響大聲小響小善惡報應亦復如是善音童子汝}
+  - {type: page-break, offset: 689, content: '', id: KR5a0004_CK-KZ_02p053a, image: JY004/CK-KZ_JY004_02p053a.png}
+  - {type: page-break, offset: 689, content: '', id: KR5a0004_CK-KZ_02p053b, image: JY004/CK-KZ_JY004_02p053b.png}
+  - {type: page-break, offset: 689, content: '', id: KR5a0004_CK-KZ_02p054a, image: JY004/CK-KZ_JY004_02p054a.png}
+  - {type: variant, offset: 689, length: 0, content: '', CK-KZ-jye: 善聽在心今當爲說盜竊人物者死入金槌獄妄取人一錢以上者死入鑊湯獄妄言綺語者死入拔舌獄因恨殺人者死入五牢大地獄貪嗔癡狠者死入大檻獄慢老欺人者死入酆都獄咒詛毒心者死入八闥獄罵詈高聲者死入泥犁獄訾毀謗人者死入北寒獄兩舌奏佞者死入大山獄持人長短者死入碓磑獄好言人惡者死入黑暗獄毀善自譽者死入大劍獄自驕我慢者死入寒冰獄畜毒藥人者死入灰炭獄投書譖人者死入黃泉大暗獄輕慢經教者死入障明獄謗毀聖文者死入銅火獄恃威凌物者死入炎爐獄貪淫好色者死入溟冷獄好殺物命者死入無間獄耽酒迷狂者死入渴寒獄殺生淫祀者死入沸山獄燒野山林遊獵者死入分形獄評論師長者死入磨山獄貪惜財賄者死入餓鬼獄言人陰事者死入黑水獄如是戒行不得輕犯輕犯之者隨犯輕重如影隨形如響應聲聲大響大聲小響小善惡報應亦復如是善音童子汝}
+  - {type: variant, offset: 689, length: 0, content: '', YP-C: 善聽在心今當爲說盜竊人物者死入金槌獄妄取人一錢以上者死入鑊湯獄妄言綺語者死入拔舌獄因恨殺人者死入五牢大地獄貪嗔癡狠者死入大檻獄慢老欺人者死入酆都獄咒詛毒心者死入八闥獄罵詈高聲者死入泥犁獄訾毀謗人者死入北寒獄兩舌奏佞者死入大山獄持人長短者死入碓磑獄好言人惡者死入黑暗獄毀善自譽者死入大劍獄自驕我慢者死入寒冰獄畜毒藥人者死入灰炭獄投書譛人者死入黃泉大暗獄輕慢經教者死入障明獄謗毀聖文者死入銅火獄恃威凌物者死入炎爐獄貪淫好色者死入溟冷獄好殺物命者死入無間獄耽酒迷狂者死入渴寒獄殺生淫祀者死入沸山獄燒野山林遊獵者死入分形獄評論師長者死入磨山獄貪惜財賄者死入餓鬼獄言人陰事者死入黑水獄如是戒行不得輕犯輕犯之者隨犯輕重如影隨形如響應聲聲大響大聲小響小善惡報應亦復如是善音童子汝}
+  - {type: page-break, offset: 689, content: '', id: KR5a0004_YP-C_03diji-01-0054a, image: JY004/03diji-01-0054a.png}
+  - {type: page-break, offset: 689, content: '', id: KR5a0004_YP-C_03diji-01-0054b, image: JY004/03diji-01-0054b.png}
+  - {type: page-break, offset: 689, content: '', id: KR5a0004_YP-C_03diji-01-0055a, image: JY004/03diji-01-0055a.png}
+  - {type: 'kr:newline', offset: 690, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl47}
+  - {type: line-break, offset: 690, content: '', id: KR5a0004_HFL_010-003a04}
+  - {type: variant, offset: 690, length: 9, content: 汝勿驚疑自生退悔我, CK-KZ: 四眾勤行此戒積漸}
+  - {type: variant, offset: 690, length: 9, content: 汝勿驚疑自生退悔我, CK-KZ-jye: 四眾勤行此戒積漸}
+  - {type: variant, offset: 690, length: 9, content: 汝勿驚疑自生退悔我, YP-C: 四眾勤行此戒積漸}
+  - {type: substitution, offset: 699, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: variant, offset: 700, length: 23, content: 劫來修行大乘坐觀行觀四宜不失遂經劫載艱辛備經而, CK-KZ: 功證}
+  - {type: variant, offset: 700, length: 23, content: 劫來修行大乘坐觀行觀四宜不失遂經劫載艱辛備經而, CK-KZ-jye: 功證}
+  - {type: variant, offset: 700, length: 23, content: 劫來修行大乘坐觀行觀四宜不失遂經劫載艱辛備經而, YP-C: 功證}
+  - {type: 'kr:newline', offset: 707, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl48}
+  - {type: line-break, offset: 707, content: '', id: KR5a0004_HFL_010-003a05}
+  - {type: 'kr:newline', offset: 724, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl49}
+  - {type: line-break, offset: 724, content: '', id: KR5a0004_HFL_010-003a06}
+  - {type: variant, offset: 726, length: 20, content: 汝等眷屬聽受不等多有疑惑何故不問我今最後, CK-KZ: 一切法聚悉是戒行畧}
+  - {type: variant, offset: 726, length: 20, content: 汝等眷屬聽受不等多有疑惑何故不問我今最後, CK-KZ-jye: 一切法聚悉是戒行畧}
+  - {type: variant, offset: 726, length: 20, content: 汝等眷屬聽受不等多有疑惑何故不問我今最後, YP-C: 一切法聚悉是戒行畧}
+  - {type: 'kr:newline', offset: 741, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl50}
+  - {type: line-break, offset: 741, content: '', id: KR5a0004_HFL_010-003a07}
+  - {type: variant, offset: 747, length: 51, content: 深妙理令汝易解勿懐不信迷情不巳須㬰之間汝自當見言語未訖忽然神變空中發聲震天動地逥易日月驚駭衆生蠢蠕之類, CK-KZ: 數科示爲善否若通}
+  - {type: variant, offset: 747, length: 51, content: 深妙理令汝易解勿懐不信迷情不巳須㬰之間汝自當見言語未訖忽然神變空中發聲震天動地逥易日月驚駭衆生蠢蠕之類, CK-KZ-jye: 數科示爲善否若通}
+  - {type: variant, offset: 747, length: 51, content: 深妙理令汝易解勿懐不信迷情不巳須㬰之間汝自當見言語未訖忽然神變空中發聲震天動地逥易日月驚駭衆生蠢蠕之類, YP-C: 數科示爲善否若通}
+  - {type: substitution, offset: 755, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
+  - {type: 'kr:newline', offset: 758, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl51}
+  - {type: line-break, offset: 758, content: '', id: KR5a0004_HFL_010-003a08}
+  - {type: 'kr:newline', offset: 775, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl52}
+  - {type: line-break, offset: 775, content: '', id: KR5a0004_HFL_010-003a09}
+  - {type: substitution, offset: 786, original: 逥, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0181}}
+  - {type: 'kr:newline', offset: 792, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl53}
+  - {type: line-break, offset: 792, content: '', id: KR5a0004_HFL_010-003a10}
+  - {type: variant, offset: 799, length: 37, content: 持變易莫知所在五苦日徒咸得解脫衆仙等衆乗空而來到靈解山一時稽首瞻視天尊欣慶, CK-KZ: 行諸戒}
+  - {type: variant, offset: 799, length: 37, content: 持變易莫知所在五苦日徒咸得解脫衆仙等衆乗空而來到靈解山一時稽首瞻視天尊欣慶, CK-KZ-jye: 行諸戒}
+  - {type: variant, offset: 799, length: 37, content: 持變易莫知所在五苦日徒咸得解脫衆仙等衆乗空而來到靈解山一時稽首瞻視天尊欣慶, YP-C: 行諸戒}
+  - {type: 'kr:newline', offset: 809, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl54}
+  - {type: page-break, offset: 809, content: '', id: KR5a0004_HFL_010-003b, image: hfl/0015/0015-167.png}
+  - {type: 'kr:newline', offset: 809, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl55}
+  - {type: line-break, offset: 809, content: '', id: KR5a0004_HFL_010-003b01}
+  - {type: substitution, offset: 818, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: 'kr:newline', offset: 826, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl56}
+  - {type: line-break, offset: 826, content: '', id: KR5a0004_HFL_010-003b02}
+  - {type: variant, offset: 837, length: 40, content: 巳俱發聲言歎大慈尊顯揚妙德異相威嚴種種方便能成能壞能妙能麄能長能短不可思議不審爲, CK-KZ: 犯人}
+  - {type: variant, offset: 837, length: 40, content: 巳俱發聲言歎大慈尊顯揚妙德異相威嚴種種方便能成能壞能妙能麄能長能短不可思議不審爲, CK-KZ-jye: 犯人}
+  - {type: variant, offset: 837, length: 40, content: 巳俱發聲言歎大慈尊顯揚妙德異相威嚴種種方便能成能壞能妙能麄能長能短不可思議不審爲, YP-C: 犯人}
+  - {type: 'kr:newline', offset: 843, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl57}
+  - {type: line-break, offset: 843, content: '', id: KR5a0004_HFL_010-003b03}
+  - {type: 'kr:newline', offset: 860, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl58}
+  - {type: line-break, offset: 860, content: '', id: KR5a0004_HFL_010-003b04}
+  - {type: substitution, offset: 865, original: 麄, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3327}}
+  - {type: substitution, offset: 876, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 877, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl59}
+  - {type: line-break, offset: 877, content: '', id: KR5a0004_HFL_010-003b05}
+  - {type: variant, offset: 878, length: 94, content: 自有殊妙竒特變見非諸色像爲當天尊神德逥易天尊答言善哉巧問諸法自在非麄非妙亦非自有亦非我作我與法等更無差别汝與我等亦無差别我等衆生衆生我等所變動者皆是正慧法性自顯自顯非相非非相非法非非法清淨, CK-KZ: ''}
+  - {type: variant, offset: 878, length: 94, content: 自有殊妙竒特變見非諸色像爲當天尊神德逥易天尊答言善哉巧問諸法自在非麄非妙亦非自有亦非我作我與法等更無差别汝與我等亦無差别我等衆生衆生我等所變動者皆是正慧法性自顯自顯非相非非相非法非非法清淨, CK-KZ-jye: ''}
+  - {type: variant, offset: 878, length: 94, content: 自有殊妙竒特變見非諸色像爲當天尊神德逥易天尊答言善哉巧問諸法自在非麄非妙亦非自有亦非我作我與法等更無差别汝與我等亦無差别我等衆生衆生我等所變動者皆是正慧法性自顯自顯非相非非相非法非非法清淨, YP-C: ''}
+  - {type: substitution, offset: 890, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 894, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl60}
+  - {type: line-break, offset: 894, content: '', id: KR5a0004_HFL_010-003b06}
+  - {type: substitution, offset: 896, original: 逥, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0181}}
+  - {type: 'kr:newline', offset: 911, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl61}
+  - {type: line-break, offset: 911, content: '', id: KR5a0004_HFL_010-003b07}
+  - {type: substitution, offset: 911, original: 麄, replacement: 粗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3327}}
+  - {type: 'kr:newline', offset: 928, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl62}
+  - {type: line-break, offset: 928, content: '', id: KR5a0004_HFL_010-003b08}
+  - {type: 'kr:newline', offset: 945, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl63}
+  - {type: line-break, offset: 945, content: '', id: KR5a0004_HFL_010-003b09}
+  - {type: 'kr:newline', offset: 962, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl64}
+  - {type: line-break, offset: 962, content: '', id: KR5a0004_HFL_010-003b10}
+  - {type: substitution, offset: 977, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 978, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl65}
+  - {type: page-break, offset: 978, content: '', id: KR5a0004_HFL_010-004a, image: hfl/0015/0015-168.png}
+  - {type: 'kr:newline', offset: 978, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl66}
+  - {type: line-break, offset: 978, content: '', id: KR5a0004_HFL_010-004a01}
+  - {type: variant, offset: 978, length: 0, content: '', CK-KZ: 善音童子上白天尊敢問說諸戒行罪業報應如影隨形犯戒罪報深淺云何爲犯一戒罪深爲犯多戒罪深若犯一戒深者不應戒多若犯多戒深者初犯一戒應無有罪眾中疑惑唯願天尊分明曉示天尊曰善哉善哉眾生業行千差萬别報對不同廣說戒文隨緣利益若犯戒者隨犯輕重不論一多犯一戒重罪卽隨重犯多戒重各各重報若犯輕戒報對亦輕如身長者影卽隨長身若短者影卽隨短犯戒罪報亦復如是我說諸戒斷諸雜心無雜煩惱又問煩惱是有是無答曰不有不無又問不有不無何名煩惱答曰不有爲有不無爲無於實法中橫計爲有則成煩惱又問此有非有若如是者眾生橫計則是正法眾生犯戒亦是正法云何有罪業報應云何有眾生虛妄天尊曰何故作如是疑諸法業正因果無差妙理報應纎芥無遺行善得善行惡得惡譬如種穀生榖種麻生麻當知種子不差因果亦}
+  - {type: page-break, offset: 978, content: '', id: KR5a0004_CK-KZ_02p054b, image: JY004/CK-KZ_JY004_02p054b.png}
+  - {type: page-break, offset: 978, content: '', id: KR5a0004_CK-KZ_02p055a, image: JY004/CK-KZ_JY004_02p055a.png}
+  - {type: variant, offset: 978, length: 0, content: '', CK-KZ-jye: 善音童子上白天尊敢問說諸戒行罪業報應如影隨形犯戒罪報深淺云何爲犯一戒罪深爲犯多戒罪深若犯一戒深者不應戒多若犯多戒深者初犯一戒應無有罪眾中疑惑唯願天尊分明曉示天尊曰善哉善哉眾生業行千差萬别報對不同廣說戒文隨緣利益若犯戒者隨犯輕重不論一多犯一戒重罪卽隨重犯多戒重各各重報若犯輕戒報對亦輕如身長者影卽隨長身若短者影卽隨短犯戒罪報亦復如是我說諸戒斷諸雜心無雜煩惱又問煩惱是有是無答曰不有不無又問不有不無何名煩惱答曰不有爲有不無爲無於實法中橫計爲有則成煩惱又問此有非有若如是者眾生橫計則是正法眾生犯戒亦是正法云何有罪業報應云何有眾生虛妄天尊曰何故作如是疑諸法業正因果無差妙理報應纎芥無遺行善得善行惡得惡譬如種穀生榖種麻生麻當知種子不差因果亦}
+  - {type: variant, offset: 978, length: 0, content: '', YP-C: 善音童子上白天尊敢問說諸戒行罪業報應如影隨形犯戒罪報深淺云何爲犯一戒罪深爲犯多戒罪深若犯一戒深者不應戒多若犯多戒深者初犯一戒應無有罪眾中疑惑唯願天尊分明曉示天尊曰善哉善哉眾生業行千差萬别報對不同廣說戒文隨緣利益若犯戒者隨犯輕重不論一多犯一戒重罪卽隨重犯多戒重各各重報若犯輕戒報對亦輕如身長者影卽隨長身若短者影卽隨短犯戒罪報亦復如是我說諸戒斷諸雜心無雜煩惱又問煩惱是有是無答曰不有不無又問不有不無何名煩惱答曰不有爲有不無爲無於實法中橫計爲有則成煩惱又問此有非有若如是者眾生橫計則是正法眾生犯戒亦是正法云何有罪業報應云何有眾生虛妄天尊曰何故作如是疑諸法業正因果無差妙理報應纎芥無遺行善得善行惡得惡譬如種穀生榖種麻生麻當知種子不差因果亦}
+  - {type: page-break, offset: 978, content: '', id: KR5a0004_YP-C_03diji-01-0055b, image: JY004/03diji-01-0055b.png}
+  - {type: page-break, offset: 978, content: '', id: KR5a0004_YP-C_03diji-01-0056a, image: JY004/03diji-01-0056a.png}
+  - {type: page-break, offset: 978, content: '', id: KR5a0004_SJB_010-010493b, image: sjb/01/010493b.png}
+  - {type: variant, offset: 979, length: 27, content: 時四衆聞此瑞相非内非外非眞非假各在本性寂然无照四衆皆至, CK-KZ: 諸善男女善聽吾言我說正法}
+  - {type: variant, offset: 979, length: 27, content: 時四衆聞此瑞相非内非外非眞非假各在本性寂然无照四衆皆至, CK-KZ-jye: 諸善男女善聽吾言我說正法}
+  - {type: variant, offset: 979, length: 27, content: 時四衆聞此瑞相非内非外非眞非假各在本性寂然无照四衆皆至, YP-C: 諸善男女善聽吾言我說正法}
+  - {type: substitution, offset: 987, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: substitution, offset: 991, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 995, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl67}
+  - {type: line-break, offset: 995, content: '', id: KR5a0004_HFL_010-004a02}
+  - {type: substitution, offset: 1000, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: variant, offset: 1007, length: 1, content: 動, CK-KZ: 離}
+  - {type: variant, offset: 1007, length: 1, content: 動, CK-KZ-jye: 離}
+  - {type: variant, offset: 1007, length: 1, content: 動, YP-C: 離}
+  - {type: variant, offset: 1008, length: 1, content: 本, CK-KZ: 空}
+  - {type: variant, offset: 1008, length: 1, content: 本, CK-KZ-jye: 空}
+  - {type: variant, offset: 1008, length: 1, content: 本, YP-C: 空}
+  - {type: variant, offset: 1009, length: 1, content: 國, CK-KZ: 有}
+  - {type: variant, offset: 1009, length: 1, content: 國, CK-KZ-jye: 有}
+  - {type: variant, offset: 1009, length: 1, content: 國, YP-C: 有}
+  - {type: variant, offset: 1011, length: 3, content: 見他方, CK-KZ: 爲正法我說正法}
+  - {type: variant, offset: 1011, length: 3, content: 見他方, CK-KZ-jye: 爲正法我說正法}
+  - {type: variant, offset: 1011, length: 3, content: 見他方, YP-C: 爲正法我說正法}
+  - {type: 'kr:newline', offset: 1012, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl68}
+  - {type: line-break, offset: 1012, content: '', id: KR5a0004_HFL_010-004a03}
+  - {type: variant, offset: 1015, length: 1, content: 壞, CK-KZ: 離生死而爲正}
+  - {type: variant, offset: 1015, length: 1, content: 壞, CK-KZ-jye: 離生死而爲正}
+  - {type: variant, offset: 1015, length: 1, content: 壞, YP-C: 離生死而爲正}
+  - {type: variant, offset: 1017, length: 2, content: 相而, CK-KZ: 我說正}
+  - {type: variant, offset: 1017, length: 2, content: 相而, CK-KZ-jye: 我說正}
+  - {type: variant, offset: 1017, length: 2, content: 相而, YP-C: 我說正}
+  - {type: variant, offset: 1020, length: 3, content: 相自在, CK-KZ: ''}
+  - {type: variant, offset: 1020, length: 3, content: 相自在, CK-KZ-jye: ''}
+  - {type: variant, offset: 1020, length: 3, content: 相自在, YP-C: ''}
+  - {type: variant, offset: 1024, length: 1, content: 壞, CK-KZ: 離}
+  - {type: variant, offset: 1024, length: 1, content: 壞, CK-KZ-jye: 離}
+  - {type: variant, offset: 1024, length: 1, content: 壞, YP-C: 離}
+  - {type: variant, offset: 1028, length: 0, content: '', CK-KZ: 爲正法我說正法不離去來而爲正法我說正法不離取捨而爲正法我說取捨非取捨而爲取捨我說去來非去來而爲去來我說}
+  - {type: variant, offset: 1028, length: 0, content: '', CK-KZ-jye: 爲正法我說正法不離去來而爲正法我說正法不離取捨而爲正法我說取捨非取捨而爲取捨我說去來非去來而爲去來我說}
+  - {type: variant, offset: 1028, length: 0, content: '', YP-C: 爲正法我說正法不離去來而爲正法我說正法不離取捨而爲正法我說取捨非取捨而爲取捨我說去來非去來而爲去來我說}
+  - {type: 'kr:newline', offset: 1029, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl69}
+  - {type: line-break, offset: 1029, content: '', id: KR5a0004_HFL_010-004a04}
+  - {type: variant, offset: 1030, length: 4, content: 清淨不壞, CK-KZ: 非煩惱而爲煩惱我說生死非}
+  - {type: variant, offset: 1030, length: 4, content: 清淨不壞, CK-KZ-jye: 非煩惱而爲煩惱我說生死非}
+  - {type: variant, offset: 1030, length: 4, content: 清淨不壞, YP-C: 非煩惱而爲煩惱我說生死非}
+  - {type: variant, offset: 1037, length: 0, content: '', CK-KZ: 爲}
+  - {type: variant, offset: 1037, length: 0, content: '', CK-KZ-jye: 爲}
+  - {type: variant, offset: 1037, length: 0, content: '', YP-C: 爲}
+  - {type: variant, offset: 1039, length: 2, content: 解脫, CK-KZ: 我說空有非空有而爲空有當知法無有二亦}
+  - {type: variant, offset: 1039, length: 2, content: 解脫, CK-KZ-jye: 我說空有非空有而爲空有當知法無有二亦}
+  - {type: variant, offset: 1039, length: 2, content: 解脫, YP-C: 我說空有非空有而爲空有當知法無有二亦}
+  - {type: variant, offset: 1042, length: 1, content: 壞, CK-KZ: 一不二不一不二湛然常住何以故眾生業行淨故取捨淨故}
+  - {type: variant, offset: 1042, length: 1, content: 壞, CK-KZ-jye: 一不二不一不二湛然常住何以故眾生業行淨故取捨淨故}
+  - {type: variant, offset: 1042, length: 1, content: 壞, YP-C: 一不二不一不二湛然常住何以故眾生業行淨故取捨淨故}
+  - {type: variant, offset: 1045, length: 30, content: 而去來无我不壞是非而是非无主不壞智慧而智慧寂滅我等徒衆乆習諸, CK-KZ: 淨故貪欲淨故煩惱淨故生死淨故眞實究竟應無罣礙當知此}
+  - {type: page-break, offset: 1045, content: '', id: KR5a0004_CK-KZ_02p055b, image: JY004/CK-KZ_JY004_02p055b.png}
+  - {type: variant, offset: 1045, length: 30, content: 而去來无我不壞是非而是非无主不壞智慧而智慧寂滅我等徒衆乆習諸, CK-KZ-jye: 淨故貪欲淨故煩惱淨故生死淨故眞實究竟應無罣礙當知此}
+  - {type: variant, offset: 1045, length: 30, content: 而去來无我不壞是非而是非无主不壞智慧而智慧寂滅我等徒衆乆習諸, YP-C: 淨故貪欲淨故煩惱淨故生死淨故眞實究竟應無罣礙當知此}
+  - {type: page-break, offset: 1045, content: '', id: KR5a0004_YP-C_03diji-01-0056b, image: JY004/03diji-01-0056b.png}
+  - {type: 'kr:newline', offset: 1046, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl70}
+  - {type: line-break, offset: 1046, content: '', id: KR5a0004_HFL_010-004a05}
+  - {type: substitution, offset: 1048, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 1057, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1063, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl71}
+  - {type: line-break, offset: 1063, content: '', id: KR5a0004_HFL_010-004a06}
+  - {type: substitution, offset: 1072, original: 乆, replacement: 久, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3214}}
+  - {type: variant, offset: 1076, length: 78, content: 未聞此法又經履歴名山洞府諸仙宫殿各有仙經无量部表略披尋讀遂經數劫種種教方學長生術修善外求内懐人我无方便慧自顯功能强化他縁自縁不曉我等昔日徒勞辛苦不遇眞經今覩, CK-KZ: 最尊最貴三世}
+  - {type: variant, offset: 1076, length: 78, content: 未聞此法又經履歴名山洞府諸仙宫殿各有仙經无量部表略披尋讀遂經數劫種種教方學長生術修善外求内懐人我无方便慧自顯功能强化他縁自縁不曉我等昔日徒勞辛苦不遇眞經今覩, CK-KZ-jye: 最尊最貴三世}
+  - {type: variant, offset: 1076, length: 78, content: 未聞此法又經履歴名山洞府諸仙宫殿各有仙經无量部表略披尋讀遂經數劫種種教方學長生術修善外求内懐人我无方便慧自顯功能强化他縁自縁不曉我等昔日徒勞辛苦不遇眞經今覩, YP-C: 最尊最貴三世}
+  - {type: 'kr:newline', offset: 1080, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl72}
+  - {type: line-break, offset: 1080, content: '', id: KR5a0004_HFL_010-004a07}
+  - {type: substitution, offset: 1083, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4508}}
+  - {type: substitution, offset: 1096, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1097, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl73}
+  - {type: line-break, offset: 1097, content: '', id: KR5a0004_HFL_010-004a08}
+  - {type: 'kr:newline', offset: 1114, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl74}
+  - {type: line-break, offset: 1114, content: '', id: KR5a0004_HFL_010-004a09}
+  - {type: substitution, offset: 1120, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: substitution, offset: 1121, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
+  - {type: substitution, offset: 1124, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1131, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl75}
+  - {type: line-break, offset: 1131, content: '', id: KR5a0004_HFL_010-004a10}
+  - {type: substitution, offset: 1135, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: substitution, offset: 1137, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 1148, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl76}
+  - {type: page-break, offset: 1148, content: '', id: KR5a0004_HFL_010-004b, image: hfl/0015/0015-169.png}
+  - {type: 'kr:newline', offset: 1148, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl77}
+  - {type: line-break, offset: 1148, content: '', id: KR5a0004_HFL_010-004b01}
+  - {type: substitution, offset: 1150, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 1156, length: 1, content: 示, CK-KZ: 皆由此經而得成道十方大聖亦習此經而得成道諸天天帝亦習此經而得成道此經包羅無外所在之處皆受此經而得成業此經威力廣大度諸眾生不可稱說善男女等若能信心受持此經福德深遠非可譬喻得其邊底爾時天尊在靈解山宣揚正法告諸大眾而說偈曰}
+  - {type: variant, offset: 1156, length: 1, content: 示, CK-KZ-jye: 皆由此經而得成道十方大聖亦習此經而得成道諸天天帝亦習此經而得成道此經包羅無外所在之處皆受此經而得成業此經威力廣大度諸眾生不可稱說善男女等若能信心受持此經福德深遠非可譬喻得其邊底爾時天尊在靈解山宣揚正法告諸大眾而說偈曰}
+  - {type: variant, offset: 1156, length: 1, content: 示, YP-C: 皆由此經而得成道十方大聖亦習此經而得成道諸天天帝亦習此經而得成道此經包羅無外所在之處皆受此經而得成業此經威力廣大度諸眾生不可稱說善男女等若能信心受持此經福德深遠非可譬喻得其邊底爾時天尊在靈解山宣揚正法告諸大眾而說偈曰}
+  - {type: variant, offset: 1158, length: 3, content: 妙藥顯, CK-KZ: 說功德本積劫修苦行若遇}
+  - {type: variant, offset: 1158, length: 3, content: 妙藥顯, CK-KZ-jye: 說功德本積劫修苦行若遇}
+  - {type: variant, offset: 1158, length: 3, content: 妙藥顯, YP-C: 說功德本積劫修苦行若遇}
+  - {type: substitution, offset: 1161, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 1164, length: 5, content: 決生靈㫖我, CK-KZ: 勤行不退轉無犯諸戒愆後悟無上道皆由在昔因汝}
+  - {type: variant, offset: 1164, length: 5, content: 決生靈㫖我, CK-KZ-jye: 勤行不退轉無犯諸戒愆後悟無上道皆由在昔因汝}
+  - {type: variant, offset: 1164, length: 5, content: 決生靈㫖我, YP-C: 勤行不退轉無犯諸戒愆後悟無上道皆由在昔因汝}
+  - {type: 'kr:newline', offset: 1165, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl78}
+  - {type: line-break, offset: 1165, content: '', id: KR5a0004_HFL_010-004b02}
+  - {type: variant, offset: 1170, length: 10, content: 宿縁種福淳厚得聞此經, CK-KZ: 精勤學功德隨日新妙道非近遠五陰裏追尋行行雖辛苦證理}
+  - {type: page-break, offset: 1170, content: '', id: KR5a0004_CK-KZ_02p056a, image: JY004/CK-KZ_JY004_02p056a.png}
+  - {type: variant, offset: 1170, length: 10, content: 宿縁種福淳厚得聞此經, CK-KZ-jye: 精勤學功德隨日新妙道非近遠五陰裏追尋行行雖辛苦證理}
+  - {type: variant, offset: 1170, length: 10, content: 宿縁種福淳厚得聞此經, YP-C: 精勤學功德隨日新妙道非近遠五陰裏追尋行行雖辛苦證理}
+  - {type: page-break, offset: 1170, content: '', id: KR5a0004_YP-C_03diji-01-0057a, image: JY004/03diji-01-0057a.png}
+  - {type: substitution, offset: 1171, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: variant, offset: 1181, length: 19, content: 踰旬月无進无退覺悟大乗至靈解山豁然无滯, CK-KZ: 勞心}
+  - {type: variant, offset: 1181, length: 19, content: 踰旬月无進无退覺悟大乗至靈解山豁然无滯, CK-KZ-jye: 勞心}
+  - {type: variant, offset: 1181, length: 19, content: 踰旬月无進无退覺悟大乗至靈解山豁然无滯, YP-C: 勞心}
+  - {type: 'kr:newline', offset: 1182, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl79}
+  - {type: line-break, offset: 1182, content: '', id: KR5a0004_HFL_010-004b03}
+  - {type: substitution, offset: 1184, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 1186, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 1191, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: substitution, offset: 1198, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1199, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl80}
+  - {type: line-break, offset: 1199, content: '', id: KR5a0004_HFL_010-004b04}
+  - {type: 'kr:newline', offset: 1200, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl81}
+  - {type: line-break, offset: 1200, content: '', id: KR5a0004_HFL_010-004b05}
+  - {type: variant, offset: 1202, length: 1, content: 又, CK-KZ: 於是}
+  - {type: variant, offset: 1202, length: 1, content: 又, CK-KZ-jye: 於是}
+  - {type: variant, offset: 1202, length: 1, content: 又, YP-C: 於是}
+  - {type: variant, offset: 1205, length: 0, content: '', CK-KZ: 眷屬及}
+  - {type: variant, offset: 1205, length: 0, content: '', CK-KZ-jye: 眷屬及}
+  - {type: variant, offset: 1205, length: 0, content: '', YP-C: 眷屬及}
+  - {type: variant, offset: 1208, length: 0, content: '', CK-KZ: 我說半偈顯本因緣人從信生人從解生人從苦行入樂正因善本而立道慧自明一切諸法無有自性畢竟空寂證此理者名爲了因卽是正果一切眾生愚癡外想六賊俱生各貪愛著分别世間悉爲邪道爲邪道者心行妄起習繫業因業對相牽生老病死遂無解了無明覆蔽貪愛甚深種種是非罪累增長如是行業煩惱切身十惡報應汝等四眾善察業因明識緣起善音童子}
+  - {type: variant, offset: 1208, length: 0, content: '', CK-KZ-jye: 我說半偈顯本因緣人從信生人從解生人從苦行入樂正因善本而立道慧自明一切諸法無有自性畢竟空寂證此理者名爲了因卽是正果一切眾生愚癡外想六賊俱生各貪愛著分别世間悉爲邪道爲邪道者心行妄起習繫業因業對相牽生老病死遂無解了無明覆蔽貪愛甚深種種是非罪累增長如是行業煩惱切身十惡報應汝等四眾善察業因明識緣起善音童子}
+  - {type: variant, offset: 1208, length: 0, content: '', YP-C: 我說半偈顯本因緣人從信生人從解生人從苦行入樂正因善本而立道慧自明一切諸法無有自性畢竟空寂證此理者名爲了因卽是正果一切眾生愚癡外想六賊俱生各貪愛著分别世間悉爲邪道爲邪道者心行妄起習繫業因業對相牽生老病死遂無解了無明覆蔽貪愛甚深種種是非罪累增長如是行業煩惱切身十惡報應汝等四眾善察業因明識緣起善音童子}
+  - {type: variant, offset: 1210, length: 171, content: 來衆此經无量劫來常存不壞神德㣲妙廣布威嚴生天立地造化无端汝等勸化受持供養書寫流通功德甚重福報無窮若有誹謗不信此經見世招禍祅邪惡鬼不意而生汝善觀察惑貧惑賤惑疾惑病惑苦惑惱惑聾惑盲惑瘖惑瘂皆由縁業報應不差惑前惑後宜各愼之修身立行有五福德何謂五福德勤行恭敬勤行慈悲勤行忍辱勤行精進勤行布施何謂恭敬恭敬有二一者覩相恭敬外形人見則信二者當照本性皎然等眞, CK-KZ: 大眾得思微旨悟解}
+  - {type: variant, offset: 1210, length: 171, content: 來衆此經无量劫來常存不壞神德㣲妙廣布威嚴生天立地造化无端汝等勸化受持供養書寫流通功德甚重福報無窮若有誹謗不信此經見世招禍祅邪惡鬼不意而生汝善觀察惑貧惑賤惑疾惑病惑苦惑惱惑聾惑盲惑瘖惑瘂皆由縁業報應不差惑前惑後宜各愼之修身立行有五福德何謂五福德勤行恭敬勤行慈悲勤行忍辱勤行精進勤行布施何謂恭敬恭敬有二一者覩相恭敬外形人見則信二者當照本性皎然等眞, CK-KZ-jye: 大眾得思微旨悟解}
+  - {type: variant, offset: 1210, length: 171, content: 來衆此經无量劫來常存不壞神德㣲妙廣布威嚴生天立地造化无端汝等勸化受持供養書寫流通功德甚重福報無窮若有誹謗不信此經見世招禍祅邪惡鬼不意而生汝善觀察惑貧惑賤惑疾惑病惑苦惑惱惑聾惑盲惑瘖惑瘂皆由縁業報應不差惑前惑後宜各愼之修身立行有五福德何謂五福德勤行恭敬勤行慈悲勤行忍辱勤行精進勤行布施何謂恭敬恭敬有二一者覩相恭敬外形人見則信二者當照本性皎然等眞, YP-C: 大眾得思微旨悟解}
+  - {type: substitution, offset: 1214, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1217, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl82}
+  - {type: line-break, offset: 1217, content: '', id: KR5a0004_HFL_010-004b06}
+  - {type: substitution, offset: 1224, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3560}}
+  - {type: 'kr:newline', offset: 1234, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl83}
+  - {type: line-break, offset: 1234, content: '', id: KR5a0004_HFL_010-004b07}
+  - {type: substitution, offset: 1236, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1251, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl84}
+  - {type: line-break, offset: 1251, content: '', id: KR5a0004_HFL_010-004b08}
+  - {type: 'kr:newline', offset: 1268, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl85}
+  - {type: line-break, offset: 1268, content: '', id: KR5a0004_HFL_010-004b09}
+  - {type: 'kr:newline', offset: 1285, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl86}
+  - {type: line-break, offset: 1285, content: '', id: KR5a0004_HFL_010-004b10}
+  - {type: substitution, offset: 1301, original: 瘂, replacement: 啞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3360}}
+  - {type: 'kr:newline', offset: 1302, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl87}
+  - {type: page-break, offset: 1302, content: '', id: KR5a0004_HFL_010-005a, image: hfl/0015/0015-170.png}
+  - {type: 'kr:newline', offset: 1302, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl88}
+  - {type: line-break, offset: 1302, content: '', id: KR5a0004_HFL_010-005a01}
+  - {type: page-break, offset: 1302, content: '', id: KR5a0004_SJB_010-010493c, image: sjb/01/010493c.png}
+  - {type: substitution, offset: 1304, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 1319, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl89}
+  - {type: line-break, offset: 1319, content: '', id: KR5a0004_HFL_010-005a02}
+  - {type: 'kr:newline', offset: 1336, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl90}
+  - {type: line-break, offset: 1336, content: '', id: KR5a0004_HFL_010-005a03}
+  - {type: 'kr:newline', offset: 1353, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl91}
+  - {type: line-break, offset: 1353, content: '', id: KR5a0004_HFL_010-005a04}
+  - {type: 'kr:newline', offset: 1370, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl92}
+  - {type: line-break, offset: 1370, content: '', id: KR5a0004_HFL_010-005a05}
+  - {type: substitution, offset: 1380, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 1382, length: 298, content: 法行此恭敬名爲正解何爲慈悲慈悲亦有二一者憐愍哀念衆生二者慈能破有樹立行此慈悲名爲度物何謂忍辱忍辱亦有二一者惡業外來觸巳心能懐忍不生怨恚二者无我外无塵累得法自在行此忍辱名爲等性何謂精進亦有二種一者專精定心執志欲人敬已二者内行照物妙心無人我相無去來相常行常照證果不差名爲精進何謂布施亦有二法一者財施受用不周功德不具二者法施懐在胷中慧無不普此之功德心行不等有深有淺若印法者觀理則住名爲大乗最勝功德希有難聞若有不印者縳在色聲名爲小乘辛苦累劫證因受果雖得少分終無解脫復有最下愚癡衆生不知恭敬不知慈悲不知忍辱不知精進不知布施如此等類難可化諭不可思議汝等聽受而聽受之是時眞藏等衆聞此妙說利益甚深難可譬諭而說偈言, CK-KZ: 場歡喜讚曰}
+  - {type: variant, offset: 1382, length: 298, content: 法行此恭敬名爲正解何爲慈悲慈悲亦有二一者憐愍哀念衆生二者慈能破有樹立行此慈悲名爲度物何謂忍辱忍辱亦有二一者惡業外來觸巳心能懐忍不生怨恚二者无我外无塵累得法自在行此忍辱名爲等性何謂精進亦有二種一者專精定心執志欲人敬已二者内行照物妙心無人我相無去來相常行常照證果不差名爲精進何謂布施亦有二法一者財施受用不周功德不具二者法施懐在胷中慧無不普此之功德心行不等有深有淺若印法者觀理則住名爲大乗最勝功德希有難聞若有不印者縳在色聲名爲小乘辛苦累劫證因受果雖得少分終無解脫復有最下愚癡衆生不知恭敬不知慈悲不知忍辱不知精進不知布施如此等類難可化諭不可思議汝等聽受而聽受之是時眞藏等衆聞此妙說利益甚深難可譬諭而說偈言, CK-KZ-jye: 場歡喜讚曰}
+  - {type: variant, offset: 1382, length: 298, content: 法行此恭敬名爲正解何爲慈悲慈悲亦有二一者憐愍哀念衆生二者慈能破有樹立行此慈悲名爲度物何謂忍辱忍辱亦有二一者惡業外來觸巳心能懐忍不生怨恚二者无我外无塵累得法自在行此忍辱名爲等性何謂精進亦有二種一者專精定心執志欲人敬已二者内行照物妙心無人我相無去來相常行常照證果不差名爲精進何謂布施亦有二法一者財施受用不周功德不具二者法施懐在胷中慧無不普此之功德心行不等有深有淺若印法者觀理則住名爲大乗最勝功德希有難聞若有不印者縳在色聲名爲小乘辛苦累劫證因受果雖得少分終無解脫復有最下愚癡衆生不知恭敬不知慈悲不知忍辱不知精進不知布施如此等類難可化諭不可思議汝等聽受而聽受之是時眞藏等衆聞此妙說利益甚深難可譬諭而說偈言, YP-C: 場歡喜讚曰}
+  - {type: 'kr:newline', offset: 1387, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl93}
+  - {type: line-break, offset: 1387, content: '', id: KR5a0004_HFL_010-005a06}
+  - {type: substitution, offset: 1388, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 1392, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 1404, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl94}
+  - {type: line-break, offset: 1404, content: '', id: KR5a0004_HFL_010-005a07}
+  - {type: 'kr:newline', offset: 1421, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl95}
+  - {type: line-break, offset: 1421, content: '', id: KR5a0004_HFL_010-005a08}
+  - {type: substitution, offset: 1421, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 1438, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl96}
+  - {type: line-break, offset: 1438, content: '', id: KR5a0004_HFL_010-005a09}
+  - {type: substitution, offset: 1443, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
+  - {type: substitution, offset: 1451, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 1454, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: 'kr:newline', offset: 1455, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl97}
+  - {type: line-break, offset: 1455, content: '', id: KR5a0004_HFL_010-005a10}
+  - {type: substitution, offset: 1456, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: substitution, offset: 1466, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 1472, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl98}
+  - {type: page-break, offset: 1472, content: '', id: KR5a0004_HFL_010-005b, image: hfl/0015/0015-171.png}
+  - {type: 'kr:newline', offset: 1472, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl99}
+  - {type: line-break, offset: 1472, content: '', id: KR5a0004_HFL_010-005b01}
+  - {type: 'kr:newline', offset: 1489, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl100}
+  - {type: line-break, offset: 1489, content: '', id: KR5a0004_HFL_010-005b02}
+  - {type: substitution, offset: 1491, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 1506, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl101}
+  - {type: line-break, offset: 1506, content: '', id: KR5a0004_HFL_010-005b03}
+  - {type: substitution, offset: 1514, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 1523, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl102}
+  - {type: line-break, offset: 1523, content: '', id: KR5a0004_HFL_010-005b04}
+  - {type: 'kr:newline', offset: 1540, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl103}
+  - {type: line-break, offset: 1540, content: '', id: KR5a0004_HFL_010-005b05}
+  - {type: substitution, offset: 1541, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
+  - {type: substitution, offset: 1543, original: 胷, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0963}}
+  - {type: 'kr:newline', offset: 1557, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl104}
+  - {type: line-break, offset: 1557, content: '', id: KR5a0004_HFL_010-005b06}
+  - {type: substitution, offset: 1570, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 1572, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: 'kr:newline', offset: 1574, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl105}
+  - {type: line-break, offset: 1574, content: '', id: KR5a0004_HFL_010-005b07}
+  - {type: 'kr:newline', offset: 1591, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl106}
+  - {type: line-break, offset: 1591, content: '', id: KR5a0004_HFL_010-005b08}
+  - {type: substitution, offset: 1591, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 1596, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: 'kr:newline', offset: 1608, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl107}
+  - {type: line-break, offset: 1608, content: '', id: KR5a0004_HFL_010-005b09}
+  - {type: 'kr:newline', offset: 1625, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl108}
+  - {type: line-break, offset: 1625, content: '', id: KR5a0004_HFL_010-005b10}
+  - {type: 'kr:newline', offset: 1642, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl109}
+  - {type: page-break, offset: 1642, content: '', id: KR5a0004_HFL_010-006a, image: hfl/0015/0015-172.png}
+  - {type: 'kr:newline', offset: 1642, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl110}
+  - {type: line-break, offset: 1642, content: '', id: KR5a0004_HFL_010-006a01}
+  - {type: page-break, offset: 1642, content: '', id: KR5a0004_SJB_010-010494a, image: sjb/01/010494a.png}
+  - {type: 'kr:newline', offset: 1659, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl111}
+  - {type: line-break, offset: 1659, content: '', id: KR5a0004_HFL_010-006a02}
+  - {type: substitution, offset: 1660, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 1676, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl112}
+  - {type: line-break, offset: 1676, content: '', id: KR5a0004_HFL_010-006a03}
+  - {type: 'kr:newline', offset: 1680, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl113}
+  - {type: line-break, offset: 1680, content: '', id: KR5a0004_HFL_010-006a04}
+  - {type: indent, offset: 1680, content: 　　, id: KR5a0004_krp_010-bkkind2}
+  - {type: variant, offset: 1684, length: 1, content: 慧, CK-KZ: 眞道眼照法圓淨顯明珠眾生得聞皆悟解離垢}
+  - {type: page-break, offset: 1684, content: '', id: KR5a0004_CK-KZ_02p056b, image: JY004/CK-KZ_JY004_02p056b.png}
+  - {type: variant, offset: 1684, length: 1, content: 慧, CK-KZ-jye: 眞道眼照法圓淨顯明珠眾生得聞皆悟解離垢}
+  - {type: variant, offset: 1684, length: 1, content: 慧, YP-C: 眞道眼照法圓淨顯明珠眾生得聞皆悟解離垢}
+  - {type: page-break, offset: 1684, content: '', id: KR5a0004_YP-C_03diji-01-0057b, image: JY004/03diji-01-0057b.png}
+  - {type: variant, offset: 1686, length: 36, content: 窮顯法隨方皆得度逗機萬行不差殊巨細淺深歸正路放光動地見諸像非巧言辭能譬諭, CK-KZ: 欲等無餘}
+  - {type: variant, offset: 1686, length: 36, content: 窮顯法隨方皆得度逗機萬行不差殊巨細淺深歸正路放光動地見諸像非巧言辭能譬諭, CK-KZ-jye: 欲等無餘}
+  - {type: variant, offset: 1686, length: 36, content: 窮顯法隨方皆得度逗機萬行不差殊巨細淺深歸正路放光動地見諸像非巧言辭能譬諭, YP-C: 欲等無餘}
+  - {type: 'kr:newline', offset: 1694, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl114}
+  - {type: line-break, offset: 1694, content: '', id: KR5a0004_HFL_010-006a05}
+  - {type: indent, offset: 1694, content: 　　, id: KR5a0004_krp_010-bkkind3}
+  - {type: 'kr:newline', offset: 1708, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl115}
+  - {type: line-break, offset: 1708, content: '', id: KR5a0004_HFL_010-006a06}
+  - {type: indent, offset: 1708, content: 　　, id: KR5a0004_krp_010-bkkind4}
+  - {type: 'kr:newline', offset: 1722, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl116}
+  - {type: line-break, offset: 1722, content: '', id: KR5a0004_HFL_010-006a07}
+  - {type: indent, offset: 1722, content: 　　, id: KR5a0004_krp_010-bkkind5}
+  - {type: variant, offset: 1724, length: 0, content: '', CK-KZ: 徒眾皆利益得見身上八角書觀彼世間皆實相無取無捨湛然居天尊平等說戒行無犯無漏業消除悉皆充滿方丈室幻化自在等空虛天尊}
+  - {type: variant, offset: 1724, length: 0, content: '', CK-KZ-jye: 徒眾皆利益得見身上八角書觀彼世間皆實相無取無捨湛然居天尊平等說戒行無犯無漏業消除悉皆充滿方丈室幻化自在等空虛天尊}
+  - {type: variant, offset: 1724, length: 0, content: '', YP-C: 徒眾皆利益得見身上八角書觀彼世間皆實相無取無捨湛然居天尊平等說戒行無犯無漏業消除悉皆充滿方丈室幻化自在等空虛天尊}
+  - {type: variant, offset: 1726, length: 2, content: 習小, CK-KZ: 修苦行後遇無上大}
+  - {type: variant, offset: 1726, length: 2, content: 習小, CK-KZ-jye: 修苦行後遇無上大}
+  - {type: variant, offset: 1726, length: 2, content: 習小, YP-C: 修苦行後遇無上大}
+  - {type: variant, offset: 1729, length: 5, content: 勤苦艱辛終, CK-KZ: 轅顯是眾生令深信遊心法界一乘門諸法}
+  - {type: variant, offset: 1729, length: 5, content: 勤苦艱辛終, CK-KZ-jye: 轅顯是眾生令深信遊心法界一乘門諸法}
+  - {type: variant, offset: 1729, length: 5, content: 勤苦艱辛終, YP-C: 轅顯是眾生令深信遊心法界一乘門諸法}
+  - {type: variant, offset: 1735, length: 8, content: 悟今聞天尊顯眞藏, CK-KZ: 生亦}
+  - {type: variant, offset: 1735, length: 8, content: 悟今聞天尊顯眞藏, CK-KZ-jye: 生亦}
+  - {type: variant, offset: 1735, length: 8, content: 悟今聞天尊顯眞藏, YP-C: 生亦}
+  - {type: 'kr:newline', offset: 1736, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl117}
+  - {type: line-break, offset: 1736, content: '', id: KR5a0004_HFL_010-006a08}
+  - {type: indent, offset: 1736, content: 　　, id: KR5a0004_krp_010-bkkind6}
+  - {type: substitution, offset: 1741, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 1744, length: 23, content: 盈日月了深趣慈悲䆒竟眞道場壞忍受生端正果我師巧, CK-KZ: 滅自然解脫寂無言爾時善音童子與諸眷屬}
+  - {type: variant, offset: 1744, length: 23, content: 盈日月了深趣慈悲䆒竟眞道場壞忍受生端正果我師巧, CK-KZ-jye: 滅自然解脫寂無言爾時善音童子與諸眷屬}
+  - {type: variant, offset: 1744, length: 23, content: 盈日月了深趣慈悲䆒竟眞道場壞忍受生端正果我師巧, YP-C: 滅自然解脫寂無言爾時善音童子與諸眷屬}
+  - {type: 'kr:newline', offset: 1750, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl118}
+  - {type: line-break, offset: 1750, content: '', id: KR5a0004_HFL_010-006a09}
+  - {type: indent, offset: 1750, content: 　　, id: KR5a0004_krp_010-bkkind7}
+  - {type: substitution, offset: 1754, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 1764, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl119}
+  - {type: line-break, offset: 1764, content: '', id: KR5a0004_HFL_010-006a10}
+  - {type: indent, offset: 1764, content: 　　, id: KR5a0004_krp_010-bkkind8}
+  - {type: variant, offset: 1768, length: 42, content: 無虚假救濟蒼生無不可衆生不信善因縁誹謗大乗懐自我天尊法母慈受深布德遍周無不普我今曉了, CK-KZ: 偈頌已歎未曾有}
+  - {type: variant, offset: 1768, length: 42, content: 無虚假救濟蒼生無不可衆生不信善因縁誹謗大乗懐自我天尊法母慈受深布德遍周無不普我今曉了, CK-KZ-jye: 偈頌已歎未曾有}
+  - {type: variant, offset: 1768, length: 42, content: 無虚假救濟蒼生無不可衆生不信善因縁誹謗大乗懐自我天尊法母慈受深布德遍周無不普我今曉了, YP-C: 偈頌已歎未曾有}
+  - {type: substitution, offset: 1769, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4533}}
+  - {type: 'kr:newline', offset: 1778, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl120}
+  - {type: page-break, offset: 1778, content: '', id: KR5a0004_HFL_010-006b, image: hfl/0015/0015-173.png}
+  - {type: 'kr:newline', offset: 1778, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl121}
+  - {type: line-break, offset: 1778, content: '', id: KR5a0004_HFL_010-006b01}
+  - {type: indent, offset: 1778, content: 　　, id: KR5a0004_krp_010-bkkind9}
+  - {type: substitution, offset: 1784, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: substitution, offset: 1788, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: substitution, offset: 1789, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
+  - {type: 'kr:newline', offset: 1792, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl122}
+  - {type: line-break, offset: 1792, content: '', id: KR5a0004_HFL_010-006b02}
+  - {type: indent, offset: 1792, content: 　　, id: KR5a0004_krp_010-bkkind10}
+  - {type: 'kr:newline', offset: 1806, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl123}
+  - {type: line-break, offset: 1806, content: '', id: KR5a0004_HFL_010-006b03}
+  - {type: indent, offset: 1806, content: 　　, id: KR5a0004_krp_010-bkkind11}
+  - {type: variant, offset: 1813, length: 1, content: 內, CK-KZ: 教濟度無涯玄㝠隱奥非世能知敢問學}
+  - {type: variant, offset: 1813, length: 1, content: 內, CK-KZ-jye: 教濟度無涯玄㝠隱奥非世能知敢問學}
+  - {type: variant, offset: 1813, length: 1, content: 內, YP-C: 教濟度無涯玄㝠隱奥非世能知敢問學}
+  - {type: variant, offset: 1815, length: 12, content: 思惟自然覩天尊善離於世間, CK-KZ: 因緣大乘}
+  - {type: variant, offset: 1815, length: 12, content: 思惟自然覩天尊善離於世間, CK-KZ-jye: 因緣大乘}
+  - {type: variant, offset: 1815, length: 12, content: 思惟自然覩天尊善離於世間, YP-C: 因緣大乘}
+  - {type: 'kr:newline', offset: 1820, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl124}
+  - {type: line-break, offset: 1820, content: '', id: KR5a0004_HFL_010-006b04}
+  - {type: indent, offset: 1820, content: 　　, id: KR5a0004_krp_010-bkkind12}
+  - {type: variant, offset: 1828, length: 1, content: 寸, CK-KZ: 法眾生根淺惠力不深觸有纒身六情}
+  - {type: page-break, offset: 1828, content: '', id: KR5a0004_CK-KZ_02p057a, image: JY004/CK-KZ_JY004_02p057a.png}
+  - {type: variant, offset: 1828, length: 1, content: 寸, CK-KZ-jye: 法眾生根淺惠力不深觸有纒身六情}
+  - {type: variant, offset: 1828, length: 1, content: 寸, YP-C: 法眾生根淺惠力不深觸有纒身六情}
+  - {type: page-break, offset: 1828, content: '', id: KR5a0004_YP-C_03diji-01-0058a, image: JY004/03diji-01-0058a.png}
+  - {type: variant, offset: 1830, length: 11, content: 納諸國土示見微妙竒特身, CK-KZ: 染如是下劣}
+  - {type: variant, offset: 1830, length: 11, content: 納諸國土示見微妙竒特身, CK-KZ-jye: 染如是下劣}
+  - {type: variant, offset: 1830, length: 11, content: 納諸國土示見微妙竒特身, YP-C: 染如是下劣}
+  - {type: 'kr:newline', offset: 1834, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl125}
+  - {type: line-break, offset: 1834, content: '', id: KR5a0004_HFL_010-006b05}
+  - {type: indent, offset: 1834, content: 　　, id: KR5a0004_krp_010-bkkind13}
+  - {type: variant, offset: 1842, length: 36, content: 生不死非今古是時眞藏等衆說偈讃歎天尊希有愍傷一切廣布大乗顯眞藏法開化愚蒙, CK-KZ: 識經}
+  - {type: variant, offset: 1842, length: 36, content: 生不死非今古是時眞藏等衆說偈讃歎天尊希有愍傷一切廣布大乗顯眞藏法開化愚蒙, CK-KZ-jye: 識經}
+  - {type: variant, offset: 1842, length: 36, content: 生不死非今古是時眞藏等衆說偈讃歎天尊希有愍傷一切廣布大乗顯眞藏法開化愚蒙, YP-C: 識經}
+  - {type: 'kr:newline', offset: 1848, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl126}
+  - {type: line-break, offset: 1848, content: '', id: KR5a0004_HFL_010-006b06}
+  - {type: substitution, offset: 1850, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 1865, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl127}
+  - {type: line-break, offset: 1865, content: '', id: KR5a0004_HFL_010-006b07}
+  - {type: substitution, offset: 1869, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: substitution, offset: 1871, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 1879, length: 78, content: 導利益使未見者見未聞者聞未悟者悟未解脫者今得解脫我等眷屬普入法門悟無上道復有下根衆生不能曉逹本性深微迷情不到云何可顯唯願天尊重宣委示天尊答言一切衆生不聞法寳, CK-KZ: ''}
+  - {type: variant, offset: 1879, length: 78, content: 導利益使未見者見未聞者聞未悟者悟未解脫者今得解脫我等眷屬普入法門悟無上道復有下根衆生不能曉逹本性深微迷情不到云何可顯唯願天尊重宣委示天尊答言一切衆生不聞法寳, CK-KZ-jye: ''}
+  - {type: variant, offset: 1879, length: 78, content: 導利益使未見者見未聞者聞未悟者悟未解脫者今得解脫我等眷屬普入法門悟無上道復有下根衆生不能曉逹本性深微迷情不到云何可顯唯願天尊重宣委示天尊答言一切衆生不聞法寳, YP-C: ''}
+  - {type: 'kr:newline', offset: 1882, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl128}
+  - {type: line-break, offset: 1882, content: '', id: KR5a0004_HFL_010-006b08}
+  - {type: 'kr:newline', offset: 1899, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl129}
+  - {type: line-break, offset: 1899, content: '', id: KR5a0004_HFL_010-006b09}
+  - {type: 'kr:newline', offset: 1916, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl130}
+  - {type: line-break, offset: 1916, content: '', id: KR5a0004_HFL_010-006b10}
+  - {type: 'kr:newline', offset: 1933, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl131}
+  - {type: page-break, offset: 1933, content: '', id: KR5a0004_HFL_010-007a, image: hfl/0015/0015-174.png}
+  - {type: 'kr:newline', offset: 1933, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl132}
+  - {type: line-break, offset: 1933, content: '', id: KR5a0004_HFL_010-007a01}
+  - {type: page-break, offset: 1933, content: '', id: KR5a0004_SJB_010-010494b, image: sjb/01/010494b.png}
+  - {type: 'kr:newline', offset: 1945, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl133}
+  - {type: line-break, offset: 1945, content: '', id: KR5a0004_HFL_010-007a02}
+  - {type: substitution, offset: 1956, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0606}}
+  - {type: 'kr:newline', offset: 1962, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl134}
+  - {type: line-break, offset: 1962, content: '', id: KR5a0004_HFL_010-007a03}
+  - {type: variant, offset: 1962, length: 74, content: 行正法未入定位當審其行隨心爲說我得道巳無量劫來常住世間濟度諸法無時捨離若得度者則見我身非外非內非青非白非赤非黒彼土衆生業縁感對汝等徒衆各取所宜而隨物, CK-KZ: 受}
+  - {type: variant, offset: 1962, length: 74, content: 行正法未入定位當審其行隨心爲說我得道巳無量劫來常住世間濟度諸法無時捨離若得度者則見我身非外非內非青非白非赤非黒彼土衆生業縁感對汝等徒衆各取所宜而隨物, CK-KZ-jye: 受}
+  - {type: variant, offset: 1962, length: 74, content: 行正法未入定位當審其行隨心爲說我得道巳無量劫來常住世間濟度諸法無時捨離若得度者則見我身非外非內非青非白非赤非黒彼土衆生業縁感對汝等徒衆各取所宜而隨物, YP-C: 受}
+  - {type: substitution, offset: 1975, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 1979, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl135}
+  - {type: line-break, offset: 1979, content: '', id: KR5a0004_HFL_010-007a04}
+  - {type: 'kr:newline', offset: 1996, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl136}
+  - {type: line-break, offset: 1996, content: '', id: KR5a0004_HFL_010-007a05}
+  - {type: 'kr:newline', offset: 2013, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl137}
+  - {type: line-break, offset: 2013, content: '', id: KR5a0004_HFL_010-007a06}
+  - {type: substitution, offset: 2016, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3297}}
+  - {type: substitution, offset: 2022, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 2030, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl138}
+  - {type: line-break, offset: 2030, content: '', id: KR5a0004_HFL_010-007a07}
+  - {type: variant, offset: 2037, length: 54, content: 我今反入無間汝等肉眼不能見我妙相法身謂言我滅汝自觀身當得見我圎滿具足法未體空迷途倒惑要憑文字執繫其心汝等受持, CK-KZ: 導雖聞}
+  - {type: variant, offset: 2037, length: 54, content: 我今反入無間汝等肉眼不能見我妙相法身謂言我滅汝自觀身當得見我圎滿具足法未體空迷途倒惑要憑文字執繫其心汝等受持, CK-KZ-jye: 導雖聞}
+  - {type: variant, offset: 2037, length: 54, content: 我今反入無間汝等肉眼不能見我妙相法身謂言我滅汝自觀身當得見我圎滿具足法未體空迷途倒惑要憑文字執繫其心汝等受持, YP-C: 導雖聞}
+  - {type: 'kr:newline', offset: 2047, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl139}
+  - {type: line-break, offset: 2047, content: '', id: KR5a0004_HFL_010-007a08}
+  - {type: 'kr:newline', offset: 2064, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl140}
+  - {type: line-break, offset: 2064, content: '', id: KR5a0004_HFL_010-007a09}
+  - {type: 'kr:newline', offset: 2081, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl141}
+  - {type: line-break, offset: 2081, content: '', id: KR5a0004_HFL_010-007a10}
+  - {type: substitution, offset: 2091, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 2093, length: 35, content: 妙經功德立至當見我身見我身者無文無字無去無來亦無我相無非我相非相非非相, CK-KZ: 心由不顧云}
+  - {type: variant, offset: 2093, length: 35, content: 妙經功德立至當見我身見我身者無文無字無去無來亦無我相無非我相非相非非相, CK-KZ-jye: 心由不顧云}
+  - {type: variant, offset: 2093, length: 35, content: 妙經功德立至當見我身見我身者無文無字無去無來亦無我相無非我相非相非非相, YP-C: 心由不顧云}
+  - {type: 'kr:newline', offset: 2098, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl142}
+  - {type: page-break, offset: 2098, content: '', id: KR5a0004_HFL_010-007b, image: hfl/0015/0015-175.png}
+  - {type: 'kr:newline', offset: 2098, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl143}
+  - {type: line-break, offset: 2098, content: '', id: KR5a0004_HFL_010-007b01}
+  - {type: 'kr:newline', offset: 2115, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl144}
+  - {type: line-break, offset: 2115, content: '', id: KR5a0004_HFL_010-007b02}
+  - {type: variant, offset: 2129, length: 1, content: 以, CK-KZ: 方}
+  - {type: variant, offset: 2129, length: 1, content: 以, CK-KZ-jye: 方}
+  - {type: variant, offset: 2129, length: 1, content: 以, YP-C: 方}
+  - {type: variant, offset: 2130, length: 1, content: 故, CK-KZ: 便}
+  - {type: variant, offset: 2130, length: 1, content: 故, CK-KZ-jye: 便}
+  - {type: variant, offset: 2130, length: 1, content: 故, YP-C: 便}
+  - {type: variant, offset: 2131, length: 1, content: 經, CK-KZ: 引}
+  - {type: variant, offset: 2131, length: 1, content: 經, CK-KZ-jye: 引}
+  - {type: variant, offset: 2131, length: 1, content: 經, YP-C: 引}
+  - {type: 'kr:newline', offset: 2132, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl145}
+  - {type: line-break, offset: 2132, content: '', id: KR5a0004_HFL_010-007b03}
+  - {type: variant, offset: 2132, length: 1, content: 微, CK-KZ: 誘}
+  - {type: variant, offset: 2132, length: 1, content: 微, CK-KZ-jye: 誘}
+  - {type: variant, offset: 2132, length: 1, content: 微, YP-C: 誘}
+  - {type: variant, offset: 2133, length: 1, content: 妙, CK-KZ: 復}
+  - {type: variant, offset: 2133, length: 1, content: 妙, CK-KZ-jye: 復}
+  - {type: variant, offset: 2133, length: 1, content: 妙, YP-C: 復}
+  - {type: variant, offset: 2134, length: 1, content: 故, CK-KZ: 次}
+  - {type: variant, offset: 2134, length: 1, content: 故, CK-KZ-jye: 次}
+  - {type: variant, offset: 2134, length: 1, content: 故, YP-C: 次}
+  - {type: variant, offset: 2135, length: 1, content: 連, CK-KZ: 三}
+  - {type: variant, offset: 2135, length: 1, content: 連, CK-KZ-jye: 三}
+  - {type: variant, offset: 2135, length: 1, content: 連, YP-C: 三}
+  - {type: variant, offset: 2136, length: 1, content: 法, CK-KZ: 乘}
+  - {type: variant, offset: 2136, length: 1, content: 法, CK-KZ-jye: 乘}
+  - {type: variant, offset: 2136, length: 1, content: 法, YP-C: 乘}
+  - {type: variant, offset: 2137, length: 1, content: 不, CK-KZ: 教}
+  - {type: variant, offset: 2137, length: 1, content: 不, CK-KZ-jye: 教}
+  - {type: variant, offset: 2137, length: 1, content: 不, YP-C: 教}
+  - {type: variant, offset: 2138, length: 1, content: 二, CK-KZ: 門}
+  - {type: variant, offset: 2138, length: 1, content: 二, CK-KZ-jye: 門}
+  - {type: variant, offset: 2138, length: 1, content: 二, YP-C: 門}
+  - {type: variant, offset: 2139, length: 1, content: 法, CK-KZ: 引}
+  - {type: variant, offset: 2139, length: 1, content: 法, CK-KZ-jye: 引}
+  - {type: variant, offset: 2139, length: 1, content: 法, YP-C: 引}
+  - {type: variant, offset: 2140, length: 1, content: 微, CK-KZ: 三}
+  - {type: variant, offset: 2140, length: 1, content: 微, CK-KZ-jye: 三}
+  - {type: variant, offset: 2140, length: 1, content: 微, YP-C: 三}
+  - {type: variant, offset: 2141, length: 1, content: 妙, CK-KZ: 根}
+  - {type: variant, offset: 2141, length: 1, content: 妙, CK-KZ-jye: 根}
+  - {type: variant, offset: 2141, length: 1, content: 妙, YP-C: 根}
+  - {type: variant, offset: 2142, length: 1, content: 故, CK-KZ: 性}
+  - {type: variant, offset: 2142, length: 1, content: 故, CK-KZ-jye: 性}
+  - {type: variant, offset: 2142, length: 1, content: 故, YP-C: 性}
+  - {type: variant, offset: 2143, length: 1, content: 連, CK-KZ: 上}
+  - {type: variant, offset: 2143, length: 1, content: 連, CK-KZ-jye: 上}
+  - {type: variant, offset: 2143, length: 1, content: 連, YP-C: 上}
+  - {type: variant, offset: 2144, length: 1, content: 衆, CK-KZ: 智}
+  - {type: variant, offset: 2144, length: 1, content: 衆, CK-KZ-jye: 智}
+  - {type: variant, offset: 2144, length: 1, content: 衆, YP-C: 智}
+  - {type: variant, offset: 2146, length: 78, content: 不二衆生妙故連我不二我等妙故連一切法非法非非法復告四衆我初學行遂經數劫種種尋求學長生業餐芝服餌吐納導養遂得長生雖夀千齡終必變易乃復進修學中乗行尋文記享外相求, CK-KZ: 知聞有}
+  - {type: variant, offset: 2146, length: 78, content: 不二衆生妙故連我不二我等妙故連一切法非法非非法復告四衆我初學行遂經數劫種種尋求學長生業餐芝服餌吐納導養遂得長生雖夀千齡終必變易乃復進修學中乗行尋文記享外相求, CK-KZ-jye: 知聞有}
+  - {type: variant, offset: 2146, length: 78, content: 不二衆生妙故連我不二我等妙故連一切法非法非非法復告四衆我初學行遂經數劫種種尋求學長生業餐芝服餌吐納導養遂得長生雖夀千齡終必變易乃復進修學中乗行尋文記享外相求, YP-C: 知聞有}
+  - {type: 'kr:newline', offset: 2149, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl146}
+  - {type: line-break, offset: 2149, content: '', id: KR5a0004_HFL_010-007b04}
+  - {type: 'kr:newline', offset: 2166, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl147}
+  - {type: line-break, offset: 2166, content: '', id: KR5a0004_HFL_010-007b05}
+  - {type: 'kr:newline', offset: 2183, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl148}
+  - {type: line-break, offset: 2183, content: '', id: KR5a0004_HFL_010-007b06}
+  - {type: 'kr:newline', offset: 2200, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl149}
+  - {type: line-break, offset: 2200, content: '', id: KR5a0004_HFL_010-007b07}
+  - {type: substitution, offset: 2215, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: 'kr:newline', offset: 2217, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl150}
+  - {type: line-break, offset: 2217, content: '', id: KR5a0004_HFL_010-007b08}
+  - {type: substitution, offset: 2224, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: variant, offset: 2225, length: 21, content: 執著語言謂言是實後遇本師逢善知識曉示眞源决, CK-KZ: 藏自然覺悟證入大乘到天尊所解脫}
+  - {type: variant, offset: 2225, length: 21, content: 執著語言謂言是實後遇本師逢善知識曉示眞源决, CK-KZ-jye: 藏自然覺悟證入大乘到天尊所解脫}
+  - {type: variant, offset: 2225, length: 21, content: 執著語言謂言是實後遇本師逢善知識曉示眞源决, YP-C: 藏自然覺悟證入大乘到天尊所解脫}
+  - {type: 'kr:newline', offset: 2234, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl151}
+  - {type: line-break, offset: 2234, content: '', id: KR5a0004_HFL_010-007b09}
+  - {type: substitution, offset: 2243, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: substitution, offset: 2247, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 2248, length: 321, content: 理我禀受形四妙爲本五廕成相遣我行行先觀四妙遊歴五成五成之相窅窅㝠㝠變化出没不住生生反源守一照理明明此時覺悟諸法平等一相無相䆒竟寂滅無初中後汝等四衆廣開法門除五垢行斷四縁愛三惑得除一慧能通六聦明徹映照内外如琉璃山無表無内皎然明淨慧解無窮衆生不曉自懐我𢢔煩惱䨱蔽不能顯了猶如泥中玉䖍不見終無汙染汝等四衆各勸修行勿生外想衆生顚倒迷惑世間躭著五慾以此爲樂謂言不死須㬰之間百病具生惑頭眩風病惑內疾充心惑手脚不遂惑瘖瘂聾盲如此病至求死不得苦腦自嬰妻子看守經年累月復無孝心如此怨報苦痛切身不可歎說若身死後名係三官魂神被縳考對幽牢長夜之中不見日月受苦報對永無期限妻子欣然不知不覺汝等觀察前後因縁明瑩身心逹三世因了三世果善知衆生根性差别隨分自在從無量劫受身定位, CK-KZ: ''}
+  - {type: variant, offset: 2248, length: 321, content: 理我禀受形四妙爲本五廕成相遣我行行先觀四妙遊歴五成五成之相窅窅㝠㝠變化出没不住生生反源守一照理明明此時覺悟諸法平等一相無相䆒竟寂滅無初中後汝等四衆廣開法門除五垢行斷四縁愛三惑得除一慧能通六聦明徹映照内外如琉璃山無表無内皎然明淨慧解無窮衆生不曉自懐我𢢔煩惱䨱蔽不能顯了猶如泥中玉䖍不見終無汙染汝等四衆各勸修行勿生外想衆生顚倒迷惑世間躭著五慾以此爲樂謂言不死須㬰之間百病具生惑頭眩風病惑內疾充心惑手脚不遂惑瘖瘂聾盲如此病至求死不得苦腦自嬰妻子看守經年累月復無孝心如此怨報苦痛切身不可歎說若身死後名係三官魂神被縳考對幽牢長夜之中不見日月受苦報對永無期限妻子欣然不知不覺汝等觀察前後因縁明瑩身心逹三世因了三世果善知衆生根性差别隨分自在從無量劫受身定位, CK-KZ-jye: ''}
+  - {type: variant, offset: 2248, length: 321, content: 理我禀受形四妙爲本五廕成相遣我行行先觀四妙遊歴五成五成之相窅窅㝠㝠變化出没不住生生反源守一照理明明此時覺悟諸法平等一相無相䆒竟寂滅無初中後汝等四衆廣開法門除五垢行斷四縁愛三惑得除一慧能通六聦明徹映照内外如琉璃山無表無内皎然明淨慧解無窮衆生不曉自懐我𢢔煩惱䨱蔽不能顯了猶如泥中玉䖍不見終無汙染汝等四衆各勸修行勿生外想衆生顚倒迷惑世間躭著五慾以此爲樂謂言不死須㬰之間百病具生惑頭眩風病惑內疾充心惑手脚不遂惑瘖瘂聾盲如此病至求死不得苦腦自嬰妻子看守經年累月復無孝心如此怨報苦痛切身不可歎說若身死後名係三官魂神被縳考對幽牢長夜之中不見日月受苦報對永無期限妻子欣然不知不覺汝等觀察前後因縁明瑩身心逹三世因了三世果善知衆生根性差别隨分自在從無量劫受身定位, YP-C: ''}
+  - {type: 'kr:newline', offset: 2251, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl152}
+  - {type: line-break, offset: 2251, content: '', id: KR5a0004_HFL_010-007b10}
+  - {type: substitution, offset: 2255, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 2268, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl153}
+  - {type: page-break, offset: 2268, content: '', id: KR5a0004_HFL_010-008a, image: hfl/0015/0015-176.png}
+  - {type: 'kr:newline', offset: 2268, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl154}
+  - {type: line-break, offset: 2268, content: '', id: KR5a0004_HFL_010-008a01}
+  - {type: page-break, offset: 2268, content: '', id: KR5a0004_SJB_010-010494c, image: sjb/01/010494c.png}
+  - {type: substitution, offset: 2270, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4508}}
+  - {type: substitution, offset: 2279, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1024}}
+  - {type: substitution, offset: 2280, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1024}}
+  - {type: substitution, offset: 2284, original: 没, replacement: 沒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3541}}
+  - {type: 'kr:newline', offset: 2285, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl155}
+  - {type: line-break, offset: 2285, content: '', id: KR5a0004_HFL_010-008a02}
+  - {type: 'kr:newline', offset: 2302, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl156}
+  - {type: line-break, offset: 2302, content: '', id: KR5a0004_HFL_010-008a03}
+  - {type: 'kr:newline', offset: 2319, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl157}
+  - {type: line-break, offset: 2319, content: '', id: KR5a0004_HFL_010-008a04}
+  - {type: substitution, offset: 2331, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 2336, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl158}
+  - {type: line-break, offset: 2336, content: '', id: KR5a0004_HFL_010-008a05}
+  - {type: substitution, offset: 2342, original: 聦, replacement: 聰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3329}}
+  - {type: substitution, offset: 2347, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 2353, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl159}
+  - {type: line-break, offset: 2353, content: '', id: KR5a0004_HFL_010-008a06}
+  - {type: substitution, offset: 2356, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: 'kr:newline', offset: 2370, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl160}
+  - {type: line-break, offset: 2370, content: '', id: KR5a0004_HFL_010-008a07}
+  - {type: substitution, offset: 2370, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
+  - {type: 'kr:newline', offset: 2387, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl161}
+  - {type: line-break, offset: 2387, content: '', id: KR5a0004_HFL_010-008a08}
+  - {type: 'kr:newline', offset: 2404, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl162}
+  - {type: line-break, offset: 2404, content: '', id: KR5a0004_HFL_010-008a09}
+  - {type: substitution, offset: 2413, original: 躭, replacement: 耽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0882}}
+  - {type: substitution, offset: 2416, original: 慾, replacement: 欲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1115}}
+  - {type: substitution, offset: 2419, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 2421, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl163}
+  - {type: line-break, offset: 2421, content: '', id: KR5a0004_HFL_010-008a10}
+  - {type: 'kr:newline', offset: 2438, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl164}
+  - {type: page-break, offset: 2438, content: '', id: KR5a0004_HFL_010-008b, image: hfl/0015/0015-177.png}
+  - {type: 'kr:newline', offset: 2438, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl165}
+  - {type: line-break, offset: 2438, content: '', id: KR5a0004_HFL_010-008b01}
+  - {type: substitution, offset: 2445, original: 脚, replacement: 腳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4530}}
+  - {type: substitution, offset: 2450, original: 瘂, replacement: 啞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3360}}
+  - {type: 'kr:newline', offset: 2455, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl166}
+  - {type: line-break, offset: 2455, content: '', id: KR5a0004_HFL_010-008b02}
+  - {type: substitution, offset: 2471, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
+  - {type: 'kr:newline', offset: 2472, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl167}
+  - {type: line-break, offset: 2472, content: '', id: KR5a0004_HFL_010-008b03}
+  - {type: 'kr:newline', offset: 2489, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl168}
+  - {type: line-break, offset: 2489, content: '', id: KR5a0004_HFL_010-008b04}
+  - {type: 'kr:newline', offset: 2506, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl169}
+  - {type: line-break, offset: 2506, content: '', id: KR5a0004_HFL_010-008b05}
+  - {type: 'kr:newline', offset: 2523, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl170}
+  - {type: line-break, offset: 2523, content: '', id: KR5a0004_HFL_010-008b06}
+  - {type: substitution, offset: 2536, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 2540, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl171}
+  - {type: line-break, offset: 2540, content: '', id: KR5a0004_HFL_010-008b07}
+  - {type: 'kr:newline', offset: 2557, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl172}
+  - {type: line-break, offset: 2557, content: '', id: KR5a0004_HFL_010-008b08}
+  - {type: variant, offset: 2573, length: 1, content: 與, CK-KZ: 印眾經相能出能入巧積方便功德深遠難可測量中智依文受持戒行漸積功著得入中乘勤苦累階終不覺悟下根眾生唯知貪愛引誘教化捨施外財心貪吝惜無明暗鈍雖預下乘未有功入眾生根性利鈍如此受益不同云何得入大惠天尊曰善哉善哉善音童子得世機宜巧能抉問吾爲汝說各各聽受入內思惟至道窅㝠絶諸情愛大乘玄妙視聽莫聞一切眾生從道而生從道而滅業緣悉被同貫一門譬如母能生子子懐不孝棄擲其母四向造罪被繫羅網母思憶之枯腸寸斷子終不覺身自受苦楚痛難當眾生顛倒迷失其本亦復如是魂神受苦楚痛切身自當苦惱大乘玄教隨根布德了自不知雖不覺知隨根度脫一切眾生悉皆受潤在眞藏中含生奥養出苦入樂不離眞藏眾生迷惑妄想爲有於眞藏中終不覺悟何以故法性眞故於眞受有有是苦聚卽是苦惱}
+  - {type: page-break, offset: 2573, content: '', id: KR5a0004_CK-KZ_02p057b, image: JY004/CK-KZ_JY004_02p057b.png}
+  - {type: variant, offset: 2573, length: 1, content: 與, CK-KZ-jye: 印眾經相能出能入巧積方便功德深遠難可測量中智依文受持戒行漸積功著得入中乘勤苦累階終不覺悟下根眾生唯知貪愛引誘教化捨施外財心貪吝惜無明暗鈍雖預下乘未有功入眾生根性利鈍如此受益不同云何得入大惠天尊曰善哉善哉善音童子得世機宜巧能抉問吾爲汝說各各聽受入內思惟至道窅㝠絶諸情愛大乘玄妙視聽莫聞一切眾生從道而生從道而滅業緣悉被同貫一門譬如母能生子子懐不孝棄擲其母四向造罪被繫羅網母思憶之枯腸寸斷子終不覺身自受苦楚痛難當眾生顛倒迷失其本亦復如是魂神受苦楚痛切身自當苦惱大乘玄教隨根布德了自不知雖不覺知隨根度脫一切眾生悉皆受潤在眞藏中含生奥養出苦入樂不離眞藏眾生迷惑妄想爲有於眞藏中終不覺悟何以故法性眞故於眞受有有是苦聚卽是苦惱}
+  - {type: variant, offset: 2573, length: 1, content: 與, YP-C: 印眾經相能出能入巧積方便功德深遠難可測量中智依文受持戒行漸積功著得入中乘勤苦累階終不覺悟下根眾生唯知貪愛引誘教化捨施外財心貪吝惜無明暗鈍雖預下乘未有功入眾生根性利鈍如此受益不同云何得入大惠天尊曰善哉善哉善音童子得世機宜巧能抉問吾爲汝說各各聽受入內思惟至道窅㝠絶諸情愛大乘玄妙視聽莫聞一切眾生從道而生從道而滅業緣悉被同貫一門譬如母能生子子懐不孝棄擲其母四向造罪被繫羅網母思憶之枯腸寸斷子終不覺身自受苦楚痛難當眾生顛倒迷失其本亦復如是魂神受苦楚痛切身自當苦惱大乘玄教隨根布德了自不知雖不覺知隨根度脫一切眾生悉皆受潤在眞藏中含生奥養出苦入樂不離眞藏眾生迷惑妄想爲有於眞藏中終不覺悟何以故法性眞故於眞受有有是苦聚卽是苦惱}
+  - {type: page-break, offset: 2573, content: '', id: KR5a0004_YP-C_03diji-01-0058b, image: JY004/03diji-01-0058b.png}
+  - {type: 'kr:newline', offset: 2574, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl173}
+  - {type: line-break, offset: 2574, content: '', id: KR5a0004_HFL_010-008b09}
+  - {type: variant, offset: 2575, length: 5, content: 同身與道同, CK-KZ: 說三乘猶如天網廣覆施張隨}
+  - {type: variant, offset: 2575, length: 5, content: 同身與道同, CK-KZ-jye: 說三乘猶如天網廣覆施張隨}
+  - {type: variant, offset: 2575, length: 5, content: 同身與道同, YP-C: 說三乘猶如天網廣覆施張隨}
+  - {type: variant, offset: 2581, length: 0, content: '', CK-KZ: 利益我觀一切悉是大惠無生無滅無苦無惱去來平等出入平等受業平等苦樂平等三乘平等下根布施受施無受卽是平等中根戒行行戒無戒卽是平等上根智慧無智無我卽是平等眾生受樂樂受無受卽是平等眾生業報報業無業卽是平等眾生根性殊別別無所別卽是平等}
+  - {type: page-break, offset: 2581, content: '', id: KR5a0004_CK-KZ_02p058a, image: JY004/CK-KZ_JY004_02p058a.png}
+  - {type: variant, offset: 2581, length: 0, content: '', CK-KZ-jye: 利益我觀一切悉是大惠無生無滅無苦無惱去來平等出入平等受業平等苦樂平等三乘平等下根布施受施無受卽是平等中根戒行行戒無戒卽是平等上根智慧無智無我卽是平等眾生受樂樂受無受卽是平等眾生業報報業無業卽是平等眾生根性殊別別無所別卽是平等}
+  - {type: variant, offset: 2581, length: 0, content: '', YP-C: 利益我觀一切悉是大惠無生無滅無苦無惱去來平等出入平等受業平等苦樂平等三乘平等下根布施受施無受卽是平等中根戒行行戒無戒卽是平等上根智慧無智無我卽是平等眾生受樂樂受無受卽是平等眾生業報報業無業卽是平等眾生根性殊別別無所別卽是平等}
+  - {type: page-break, offset: 2581, content: '', id: KR5a0004_YP-C_03diji-01-0059a, image: JY004/03diji-01-0059a.png}
+  - {type: variant, offset: 2585, length: 345, content: 亦復如是汝等要須先習此經悟諸縁理何以故此經正印通印諸法顯物妙心眞實不二無虛假說是一相門圎滿具足修行至此堅固不退滌蕩無爲外道羣邪自然磨滅此經神力爲大法輪運載衆生輪轉不絶猶如日月懸照四方盲者不覩眞經妙性亦復如是衆生顚倒煩惱覆蔽不見正經自生誹謗失愛慈母眞藏等衆稽首伏地上白天尊衆疑不了敢問衆生等天尊性無差無則爲衆生性等天尊相爲衆生相等天尊性若相等者衆生應見若見尊相則無顚倒亦無煩惱亦無誹謗亦無是非亦無生死云何衆生顚倒不了若性等者相則不等性相則別衆生有相則無有性天尊有性則無有相若相即性性即是相衆生即是天尊圓應天尊即是衆生執著如此疑惑願垂誨示天尊歡喜讃歎善哉巧能問義於衆得聞譬如種樹根深枝盛離枝無根離根無枝衆生性相亦復如是離相無性離性無相性不可見則相非相非非相相不可見則性非性非非性等我性者則是等相, CK-KZ: ''}
+  - {type: variant, offset: 2585, length: 345, content: 亦復如是汝等要須先習此經悟諸縁理何以故此經正印通印諸法顯物妙心眞實不二無虛假說是一相門圎滿具足修行至此堅固不退滌蕩無爲外道羣邪自然磨滅此經神力爲大法輪運載衆生輪轉不絶猶如日月懸照四方盲者不覩眞經妙性亦復如是衆生顚倒煩惱覆蔽不見正經自生誹謗失愛慈母眞藏等衆稽首伏地上白天尊衆疑不了敢問衆生等天尊性無差無則爲衆生性等天尊相爲衆生相等天尊性若相等者衆生應見若見尊相則無顚倒亦無煩惱亦無誹謗亦無是非亦無生死云何衆生顚倒不了若性等者相則不等性相則別衆生有相則無有性天尊有性則無有相若相即性性即是相衆生即是天尊圓應天尊即是衆生執著如此疑惑願垂誨示天尊歡喜讃歎善哉巧能問義於衆得聞譬如種樹根深枝盛離枝無根離根無枝衆生性相亦復如是離相無性離性無相性不可見則相非相非非相相不可見則性非性非非性等我性者則是等相, CK-KZ-jye: ''}
+  - {type: variant, offset: 2585, length: 345, content: 亦復如是汝等要須先習此經悟諸縁理何以故此經正印通印諸法顯物妙心眞實不二無虛假說是一相門圎滿具足修行至此堅固不退滌蕩無爲外道羣邪自然磨滅此經神力爲大法輪運載衆生輪轉不絶猶如日月懸照四方盲者不覩眞經妙性亦復如是衆生顚倒煩惱覆蔽不見正經自生誹謗失愛慈母眞藏等衆稽首伏地上白天尊衆疑不了敢問衆生等天尊性無差無則爲衆生性等天尊相爲衆生相等天尊性若相等者衆生應見若見尊相則無顚倒亦無煩惱亦無誹謗亦無是非亦無生死云何衆生顚倒不了若性等者相則不等性相則別衆生有相則無有性天尊有性則無有相若相即性性即是相衆生即是天尊圓應天尊即是衆生執著如此疑惑願垂誨示天尊歡喜讃歎善哉巧能問義於衆得聞譬如種樹根深枝盛離枝無根離根無枝衆生性相亦復如是離相無性離性無相性不可見則相非相非非相相不可見則性非性非非性等我性者則是等相, YP-C: ''}
+  - {type: 'kr:newline', offset: 2591, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl174}
+  - {type: line-break, offset: 2591, content: '', id: KR5a0004_HFL_010-008b10}
+  - {type: substitution, offset: 2599, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 2608, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl175}
+  - {type: page-break, offset: 2608, content: '', id: KR5a0004_HFL_010-009a, image: hfl/0015/0015-178.png}
+  - {type: 'kr:newline', offset: 2608, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl176}
+  - {type: line-break, offset: 2608, content: '', id: KR5a0004_HFL_010-009a01}
+  - {type: page-break, offset: 2608, content: '', id: KR5a0004_SJB_010-010495a, image: sjb/01/010495a.png}
+  - {type: substitution, offset: 2616, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 2625, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl177}
+  - {type: line-break, offset: 2625, content: '', id: KR5a0004_HFL_010-009a02}
+  - {type: 'kr:newline', offset: 2642, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl178}
+  - {type: line-break, offset: 2642, content: '', id: KR5a0004_HFL_010-009a03}
+  - {type: substitution, offset: 2643, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 2656, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 2659, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl179}
+  - {type: line-break, offset: 2659, content: '', id: KR5a0004_HFL_010-009a04}
+  - {type: 'kr:newline', offset: 2676, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl180}
+  - {type: line-break, offset: 2676, content: '', id: KR5a0004_HFL_010-009a05}
+  - {type: substitution, offset: 2680, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 2693, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl181}
+  - {type: line-break, offset: 2693, content: '', id: KR5a0004_HFL_010-009a06}
+  - {type: substitution, offset: 2708, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 2710, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl182}
+  - {type: line-break, offset: 2710, content: '', id: KR5a0004_HFL_010-009a07}
+  - {type: 'kr:newline', offset: 2727, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl183}
+  - {type: line-break, offset: 2727, content: '', id: KR5a0004_HFL_010-009a08}
+  - {type: substitution, offset: 2736, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 2744, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl184}
+  - {type: line-break, offset: 2744, content: '', id: KR5a0004_HFL_010-009a09}
+  - {type: substitution, offset: 2744, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 2761, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl185}
+  - {type: line-break, offset: 2761, content: '', id: KR5a0004_HFL_010-009a10}
+  - {type: 'kr:newline', offset: 2778, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl186}
+  - {type: page-break, offset: 2778, content: '', id: KR5a0004_HFL_010-009b, image: hfl/0015/0015-179.png}
+  - {type: 'kr:newline', offset: 2778, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl187}
+  - {type: line-break, offset: 2778, content: '', id: KR5a0004_HFL_010-009b01}
+  - {type: 'kr:newline', offset: 2795, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl188}
+  - {type: line-break, offset: 2795, content: '', id: KR5a0004_HFL_010-009b02}
+  - {type: 'kr:newline', offset: 2812, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl189}
+  - {type: line-break, offset: 2812, content: '', id: KR5a0004_HFL_010-009b03}
+  - {type: 'kr:newline', offset: 2829, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl190}
+  - {type: line-break, offset: 2829, content: '', id: KR5a0004_HFL_010-009b04}
+  - {type: 'kr:newline', offset: 2846, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl191}
+  - {type: line-break, offset: 2846, content: '', id: KR5a0004_HFL_010-009b05}
+  - {type: 'kr:newline', offset: 2852, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl192}
+  - {type: line-break, offset: 2852, content: '', id: KR5a0004_HFL_010-009b06}
+  - {type: 'kr:newline', offset: 2869, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl193}
+  - {type: line-break, offset: 2869, content: '', id: KR5a0004_HFL_010-009b07}
+  - {type: 'kr:newline', offset: 2886, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl194}
+  - {type: line-break, offset: 2886, content: '', id: KR5a0004_HFL_010-009b08}
+  - {type: 'kr:newline', offset: 2903, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl195}
+  - {type: line-break, offset: 2903, content: '', id: KR5a0004_HFL_010-009b09}
+  - {type: 'kr:newline', offset: 2920, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl196}
+  - {type: line-break, offset: 2920, content: '', id: KR5a0004_HFL_010-009b10}
+  - {type: variant, offset: 2934, length: 19, content: 云何難言相則可見性不可見分別二途失眞實, CK-KZ: 無所等故名爲大}
+  - {type: variant, offset: 2934, length: 19, content: 云何難言相則可見性不可見分別二途失眞實, CK-KZ-jye: 無所等故名爲大}
+  - {type: variant, offset: 2934, length: 19, content: 云何難言相則可見性不可見分別二途失眞實, YP-C: 無所等故名爲大}
+  - {type: 'kr:newline', offset: 2937, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl197}
+  - {type: page-break, offset: 2937, content: '', id: KR5a0004_HFL_010-010a, image: hfl/0015/0015-180.png}
+  - {type: 'kr:newline', offset: 2937, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl198}
+  - {type: line-break, offset: 2937, content: '', id: KR5a0004_HFL_010-010a01}
+  - {type: page-break, offset: 2937, content: '', id: KR5a0004_SJB_010-010495b, image: sjb/01/010495b.png}
+  - {type: substitution, offset: 2951, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 2954, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl199}
+  - {type: line-break, offset: 2954, content: '', id: KR5a0004_HFL_010-010a02}
+  - {type: variant, offset: 2954, length: 2, content: 我說, CK-KZ: 善音童子汝等勤行教化依}
+  - {type: variant, offset: 2954, length: 2, content: 我說, CK-KZ-jye: 善音童子汝等勤行教化依}
+  - {type: variant, offset: 2954, length: 2, content: 我說, YP-C: 善音童子汝等勤行教化依}
+  - {type: variant, offset: 2957, length: 49, content: 經名大醫王能療諸疾應病與藥能服之者無不差愈不能服者病則不瘳徒嗟大醫終無有損此經亦復如是衆生顚倒不信, CK-KZ: ''}
+  - {type: variant, offset: 2957, length: 49, content: 經名大醫王能療諸疾應病與藥能服之者無不差愈不能服者病則不瘳徒嗟大醫終無有損此經亦復如是衆生顚倒不信, CK-KZ-jye: ''}
+  - {type: variant, offset: 2957, length: 49, content: 經名大醫王能療諸疾應病與藥能服之者無不差愈不能服者病則不瘳徒嗟大醫終無有損此經亦復如是衆生顚倒不信, YP-C: ''}
+  - {type: 'kr:newline', offset: 2971, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl200}
+  - {type: line-break, offset: 2971, content: '', id: KR5a0004_HFL_010-010a03}
+  - {type: 'kr:newline', offset: 2988, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl201}
+  - {type: line-break, offset: 2988, content: '', id: KR5a0004_HFL_010-010a04}
+  - {type: 'kr:newline', offset: 3005, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl202}
+  - {type: line-break, offset: 3005, content: '', id: KR5a0004_HFL_010-010a05}
+  - {type: variant, offset: 3008, length: 1, content: 而, CK-KZ: 勿}
+  - {type: variant, offset: 3008, length: 1, content: 而, CK-KZ-jye: 勿}
+  - {type: variant, offset: 3008, length: 1, content: 而, YP-C: 勿}
+  - {type: variant, offset: 3010, length: 61, content: 誹謗不行恭敬不肯受持自生顚倒惑此經能破煩惱重病能破貪欲愛網結縳能破瞋恚愚癡障惱能令衆生得無畏心能令衆生得不死術能令衆生智慧, CK-KZ: 異想卽是}
+  - {type: variant, offset: 3010, length: 61, content: 誹謗不行恭敬不肯受持自生顚倒惑此經能破煩惱重病能破貪欲愛網結縳能破瞋恚愚癡障惱能令衆生得無畏心能令衆生得不死術能令衆生智慧, CK-KZ-jye: 異想卽是}
+  - {type: variant, offset: 3010, length: 61, content: 誹謗不行恭敬不肯受持自生顚倒惑此經能破煩惱重病能破貪欲愛網結縳能破瞋恚愚癡障惱能令衆生得無畏心能令衆生得不死術能令衆生智慧, YP-C: 異想卽是}
+  - {type: 'kr:newline', offset: 3022, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl203}
+  - {type: line-break, offset: 3022, content: '', id: KR5a0004_HFL_010-010a06}
+  - {type: 'kr:newline', offset: 3039, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl204}
+  - {type: line-break, offset: 3039, content: '', id: KR5a0004_HFL_010-010a07}
+  - {type: 'kr:newline', offset: 3056, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl205}
+  - {type: line-break, offset: 3056, content: '', id: KR5a0004_HFL_010-010a08}
+  - {type: 'kr:newline', offset: 3073, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl206}
+  - {type: line-break, offset: 3073, content: '', id: KR5a0004_HFL_010-010a09}
+  - {type: variant, offset: 3073, length: 22, content: 能令衆生慈仁孝順能令衆生長命富貴能令衆生安樂, CK-KZ: 得入大惠法門功德}
+  - {type: variant, offset: 3073, length: 22, content: 能令衆生慈仁孝順能令衆生長命富貴能令衆生安樂, CK-KZ-jye: 得入大惠法門功德}
+  - {type: variant, offset: 3073, length: 22, content: 能令衆生慈仁孝順能令衆生長命富貴能令衆生安樂, YP-C: 得入大惠法門功德}
+  - {type: 'kr:newline', offset: 3090, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl207}
+  - {type: line-break, offset: 3090, content: '', id: KR5a0004_HFL_010-010a10}
+  - {type: variant, offset: 3097, length: 154, content: 能令衆生成無上道此經功德廣速遍周非言可顯汝能方便功積修行到靈解山入眞實際證大乘轅平等無礙若無方便不曉眞宗反成執滯更增煩惱失大慈毋失平等心失無爲理失解脫慧失功德本諸行皆失自然禍殃天尊於是說偈讃揚重宣功德令諸四衆反照身心說偈頌云大乘廣分布隨分教衆生我顯眞藏本正印證分明能行此經者智慧自然成汝等諸徒衆廣化勤修行證法, CK-KZ: ''}
+  - {type: variant, offset: 3097, length: 154, content: 能令衆生成無上道此經功德廣速遍周非言可顯汝能方便功積修行到靈解山入眞實際證大乘轅平等無礙若無方便不曉眞宗反成執滯更增煩惱失大慈毋失平等心失無爲理失解脫慧失功德本諸行皆失自然禍殃天尊於是說偈讃揚重宣功德令諸四衆反照身心說偈頌云大乘廣分布隨分教衆生我顯眞藏本正印證分明能行此經者智慧自然成汝等諸徒衆廣化勤修行證法, CK-KZ-jye: ''}
+  - {type: variant, offset: 3097, length: 154, content: 能令衆生成無上道此經功德廣速遍周非言可顯汝能方便功積修行到靈解山入眞實際證大乘轅平等無礙若無方便不曉眞宗反成執滯更增煩惱失大慈毋失平等心失無爲理失解脫慧失功德本諸行皆失自然禍殃天尊於是說偈讃揚重宣功德令諸四衆反照身心說偈頌云大乘廣分布隨分教衆生我顯眞藏本正印證分明能行此經者智慧自然成汝等諸徒衆廣化勤修行證法, YP-C: ''}
+  - {type: 'kr:newline', offset: 3107, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl208}
+  - {type: page-break, offset: 3107, content: '', id: KR5a0004_HFL_010-010b, image: hfl/0015/0015-181.png}
+  - {type: 'kr:newline', offset: 3107, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl209}
+  - {type: line-break, offset: 3107, content: '', id: KR5a0004_HFL_010-010b01}
+  - {type: 'kr:newline', offset: 3124, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl210}
+  - {type: line-break, offset: 3124, content: '', id: KR5a0004_HFL_010-010b02}
+  - {type: substitution, offset: 3130, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 3141, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl211}
+  - {type: line-break, offset: 3141, content: '', id: KR5a0004_HFL_010-010b03}
+  - {type: substitution, offset: 3147, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 3158, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl212}
+  - {type: line-break, offset: 3158, content: '', id: KR5a0004_HFL_010-010b04}
+  - {type: substitution, offset: 3167, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 3175, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl213}
+  - {type: line-break, offset: 3175, content: '', id: KR5a0004_HFL_010-010b05}
+  - {type: 'kr:newline', offset: 3192, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl214}
+  - {type: line-break, offset: 3192, content: '', id: KR5a0004_HFL_010-010b06}
+  - {type: 'kr:newline', offset: 3209, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl215}
+  - {type: line-break, offset: 3209, content: '', id: KR5a0004_HFL_010-010b07}
+  - {type: indent, offset: 3214, content: 　, id: KR5a0004_krp_010-bkkind14}
+  - {type: indent, offset: 3219, content: 　, id: KR5a0004_krp_010-bkkind15}
+  - {type: substitution, offset: 3221, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 3224, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl216}
+  - {type: line-break, offset: 3224, content: '', id: KR5a0004_HFL_010-010b08}
+  - {type: indent, offset: 3229, content: 　, id: KR5a0004_krp_010-bkkind16}
+  - {type: indent, offset: 3234, content: 　, id: KR5a0004_krp_010-bkkind17}
+  - {type: 'kr:newline', offset: 3239, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl217}
+  - {type: line-break, offset: 3239, content: '', id: KR5a0004_HFL_010-010b09}
+  - {type: indent, offset: 3244, content: 　, id: KR5a0004_krp_010-bkkind18}
+  - {type: indent, offset: 3249, content: 　, id: KR5a0004_krp_010-bkkind19}
+  - {type: 'kr:newline', offset: 3254, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl218}
+  - {type: line-break, offset: 3254, content: '', id: KR5a0004_HFL_010-010b10}
+  - {type: variant, offset: 3254, length: 23, content: 了逹無上經我今說譬諭近聞令易解小乘人得信漸證無, CK-KZ: 力不}
+  - {type: variant, offset: 3254, length: 23, content: 了逹無上經我今說譬諭近聞令易解小乘人得信漸證無, CK-KZ-jye: 力不}
+  - {type: variant, offset: 3254, length: 23, content: 了逹無上經我今說譬諭近聞令易解小乘人得信漸證無, YP-C: 力不}
+  - {type: indent, offset: 3259, content: 　, id: KR5a0004_krp_010-bkkind20}
+  - {type: indent, offset: 3264, content: 　, id: KR5a0004_krp_010-bkkind21}
+  - {type: 'kr:newline', offset: 3269, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl219}
+  - {type: page-break, offset: 3269, content: '', id: KR5a0004_HFL_010-011a, image: hfl/0015/0015-182.png}
+  - {type: 'kr:newline', offset: 3269, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl220}
+  - {type: line-break, offset: 3269, content: '', id: KR5a0004_HFL_010-011a01}
+  - {type: page-break, offset: 3269, content: '', id: KR5a0004_SJB_010-010495c, image: sjb/01/010495c.png}
+  - {type: indent, offset: 3274, content: 　, id: KR5a0004_krp_010-bkkind22}
+  - {type: variant, offset: 3278, length: 19, content: 果䆒竟功德林非人復非我最後殷勤說所言無, CK-KZ: ''}
+  - {type: variant, offset: 3278, length: 19, content: 果䆒竟功德林非人復非我最後殷勤說所言無, CK-KZ-jye: ''}
+  - {type: variant, offset: 3278, length: 19, content: 果䆒竟功德林非人復非我最後殷勤說所言無, YP-C: ''}
+  - {type: indent, offset: 3279, content: 　, id: KR5a0004_krp_010-bkkind23}
+  - {type: 'kr:newline', offset: 3284, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl221}
+  - {type: line-break, offset: 3284, content: '', id: KR5a0004_HFL_010-011a02}
+  - {type: indent, offset: 3289, content: 　, id: KR5a0004_krp_010-bkkind24}
+  - {type: indent, offset: 3294, content: 　, id: KR5a0004_krp_010-bkkind25}
+  - {type: variant, offset: 3298, length: 30, content: 可巨細各相容神力隨行坐大乘不可顯反覆在環堵天尊說此偈巳告四衆, CK-KZ: 滅能度眾生滅煩惱業汝等徒眾勿生倒想爾時善音童子}
+  - {type: variant, offset: 3298, length: 30, content: 可巨細各相容神力隨行坐大乘不可顯反覆在環堵天尊說此偈巳告四衆, CK-KZ-jye: 滅能度眾生滅煩惱業汝等徒眾勿生倒想爾時善音童子}
+  - {type: variant, offset: 3298, length: 30, content: 可巨細各相容神力隨行坐大乘不可顯反覆在環堵天尊說此偈巳告四衆, YP-C: 滅能度眾生滅煩惱業汝等徒眾勿生倒想爾時善音童子}
+  - {type: 'kr:newline', offset: 3299, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl222}
+  - {type: line-break, offset: 3299, content: '', id: KR5a0004_HFL_010-011a03}
+  - {type: indent, offset: 3304, content: 　, id: KR5a0004_krp_010-bkkind26}
+  - {type: indent, offset: 3309, content: 　, id: KR5a0004_krp_010-bkkind27}
+  - {type: 'kr:newline', offset: 3314, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl223}
+  - {type: line-break, offset: 3314, content: '', id: KR5a0004_HFL_010-011a04}
+  - {type: 'kr:newline', offset: 3319, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl224}
+  - {type: line-break, offset: 3319, content: '', id: KR5a0004_HFL_010-011a05}
+  - {type: variant, offset: 3330, length: 20, content: 眷屬我說法訖當還本所此經委付國王聖主次及, CK-KZ: ''}
+  - {type: variant, offset: 3330, length: 20, content: 眷屬我說法訖當還本所此經委付國王聖主次及, CK-KZ-jye: ''}
+  - {type: variant, offset: 3330, length: 20, content: 眷屬我說法訖當還本所此經委付國王聖主次及, YP-C: ''}
+  - {type: 'kr:newline', offset: 3336, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl225}
+  - {type: line-break, offset: 3336, content: '', id: KR5a0004_HFL_010-011a06}
+  - {type: variant, offset: 3351, length: 124, content: 臣王侯子弟我大弟子共傳宣布經法流通功德廣逹不可格量何以故猶如良井遍給衆渴井泉不竭此經功德亦復如是廣宣分布衆人皆得本猶不失若不流通此經不行功德斷絶塞諸智慧斷衆生行斷解脫源斷因縁業其罪深重非可譬諭汝諸四衆勤行大行勿生分别我當反神不沉不浮離諸色像四衆顒顒, CK-KZ: 眾}
+  - {type: variant, offset: 3351, length: 124, content: 臣王侯子弟我大弟子共傳宣布經法流通功德廣逹不可格量何以故猶如良井遍給衆渴井泉不竭此經功德亦復如是廣宣分布衆人皆得本猶不失若不流通此經不行功德斷絶塞諸智慧斷衆生行斷解脫源斷因縁業其罪深重非可譬諭汝諸四衆勤行大行勿生分别我當反神不沉不浮離諸色像四衆顒顒, CK-KZ-jye: 眾}
+  - {type: variant, offset: 3351, length: 124, content: 臣王侯子弟我大弟子共傳宣布經法流通功德廣逹不可格量何以故猶如良井遍給衆渴井泉不竭此經功德亦復如是廣宣分布衆人皆得本猶不失若不流通此經不行功德斷絶塞諸智慧斷衆生行斷解脫源斷因縁業其罪深重非可譬諭汝諸四衆勤行大行勿生分别我當反神不沉不浮離諸色像四衆顒顒, YP-C: 眾}
+  - {type: 'kr:newline', offset: 3353, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl226}
+  - {type: line-break, offset: 3353, content: '', id: KR5a0004_HFL_010-011a07}
+  - {type: 'kr:newline', offset: 3370, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl227}
+  - {type: line-break, offset: 3370, content: '', id: KR5a0004_HFL_010-011a08}
+  - {type: 'kr:newline', offset: 3387, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl228}
+  - {type: line-break, offset: 3387, content: '', id: KR5a0004_HFL_010-011a09}
+  - {type: 'kr:newline', offset: 3404, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl229}
+  - {type: line-break, offset: 3404, content: '', id: KR5a0004_HFL_010-011a10}
+  - {type: 'kr:newline', offset: 3421, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl230}
+  - {type: page-break, offset: 3421, content: '', id: KR5a0004_HFL_010-011b, image: hfl/0016/0016-004.png}
+  - {type: 'kr:newline', offset: 3421, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl231}
+  - {type: line-break, offset: 3421, content: '', id: KR5a0004_HFL_010-011b01}
+  - {type: substitution, offset: 3437, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3587}}
+  - {type: 'kr:newline', offset: 3438, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl232}
+  - {type: line-break, offset: 3438, content: '', id: KR5a0004_HFL_010-011b02}
+  - {type: 'kr:newline', offset: 3455, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl233}
+  - {type: line-break, offset: 3455, content: '', id: KR5a0004_HFL_010-011b03}
+  - {type: 'kr:newline', offset: 3472, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl234}
+  - {type: line-break, offset: 3472, content: '', id: KR5a0004_HFL_010-011b04}
+  - {type: variant, offset: 3478, length: 7, content: 巳哀號哽咽涕淚, CK-KZ: 已歡喜無量}
+  - {type: variant, offset: 3478, length: 7, content: 巳哀號哽咽涕淚, CK-KZ-jye: 已歡喜無量}
+  - {type: variant, offset: 3478, length: 7, content: 巳哀號哽咽涕淚, YP-C: 已歡喜無量}
+  - {type: variant, offset: 3486, length: 25, content: 勝齊聲唱言留請天尊垂恩住世天尊答言我遊諸國崑崙九土, CK-KZ: 可}
+  - {type: variant, offset: 3486, length: 25, content: 勝齊聲唱言留請天尊垂恩住世天尊答言我遊諸國崑崙九土, CK-KZ-jye: 可}
+  - {type: variant, offset: 3486, length: 25, content: 勝齊聲唱言留請天尊垂恩住世天尊答言我遊諸國崑崙九土, YP-C: 可}
+  - {type: 'kr:newline', offset: 3489, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl235}
+  - {type: line-break, offset: 3489, content: '', id: KR5a0004_HFL_010-011b05}
+  - {type: 'kr:newline', offset: 3506, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl236}
+  - {type: line-break, offset: 3506, content: '', id: KR5a0004_HFL_010-011b06}
+  - {type: variant, offset: 3512, length: 20, content: 法教化令彼衆生逥向大道我别汝當不易時汝等, CK-KZ: 議}
+  - {type: variant, offset: 3512, length: 20, content: 法教化令彼衆生逥向大道我别汝當不易時汝等, CK-KZ-jye: 議}
+  - {type: variant, offset: 3512, length: 20, content: 法教化令彼衆生逥向大道我别汝當不易時汝等, YP-C: 議}
+  - {type: substitution, offset: 3519, original: 逥, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0181}}
+  - {type: 'kr:newline', offset: 3523, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl237}
+  - {type: line-break, offset: 3523, content: '', id: KR5a0004_HFL_010-011b07}
+  - {type: variant, offset: 3533, length: 23, content: 居嚴淨國土鬱蕙名香在靈解山自當見我忽然冉冉昇空, CK-KZ: 各伏地稽首奉辭}
+  - {type: variant, offset: 3533, length: 23, content: 居嚴淨國土鬱蕙名香在靈解山自當見我忽然冉冉昇空, CK-KZ-jye: 各伏地稽首奉辭}
+  - {type: variant, offset: 3533, length: 23, content: 居嚴淨國土鬱蕙名香在靈解山自當見我忽然冉冉昇空, YP-C: 各伏地稽首奉辭}
+  - {type: 'kr:newline', offset: 3540, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl238}
+  - {type: line-break, offset: 3540, content: '', id: KR5a0004_HFL_010-011b08}
+  - {type: substitution, offset: 3554, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
+  - {type: 'kr:newline', offset: 3557, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl239}
+  - {type: line-break, offset: 3557, content: '', id: KR5a0004_HFL_010-011b09}
+  - {type: variant, offset: 3557, length: 27, content: 去眞藏等衆瞻視無巳莫知所在各還本所无上内祕眞藏經卷之十, CK-KZ: 退}
+  - {type: variant, offset: 3557, length: 27, content: 去眞藏等衆瞻視無巳莫知所在各還本所无上内祕眞藏經卷之十, CK-KZ-jye: 退}
+  - {type: variant, offset: 3557, length: 27, content: 去眞藏等衆瞻視無巳莫知所在各還本所无上内祕眞藏經卷之十, YP-C: 退}
+  - {type: substitution, offset: 3558, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 3574, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl240}
+  - {type: line-break, offset: 3574, content: '', id: KR5a0004_HFL_010-011b10}
+  - {type: substitution, offset: 3574, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  - {type: substitution, offset: 3576, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
+  - {type: substitution, offset: 3578, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: 'kr:newline', offset: 3584, content: '
+
+      ', id: KR5a0004_krp_010-bkkkrnewl241}
+  back: []
+hash: sha256:8e87ef952937233d64ae73341ae23da722e1c0c05b24aa3d731646cdd3ad8e8c
